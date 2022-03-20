@@ -1,0 +1,432 @@
+[
+    {
+        "id":"1",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2Frubber-tree-rubber-trees-rubber-tree.jpg?alt=media&token=1e85d812-eaac-4dc1-affc-f4eb6cb1dadb",
+        "name":"rubber",
+        "careGuide":{
+            "water":"Water The baby rubber plant can withstand dry periods relatively well compared to other houseplants. This species should be watered regularly during the active growing season between spring and fall. The soil should be allowed to dry out between watering.Watering can be reduced during the dormant winter season. Plants that are kept in well-lit areas should be watered more frequently than those kept in low light.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"Spring, Summer, Autumn",
+            "propagation":"Cutting, Division",
+            "harvestTime": "",
+            "pottingSuggestions":"Should be repotted once every 2 years."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"8 cm to 40 cm",
+            "spread":"20 cm",
+            "size":"2.5 cm",
+            "habitat":"Humid tropical forests, Swamps, River banks, Roadsides, Rock outcrops",
+            "flower":"White",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Growing Baby rubber plant is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Partial sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"10-12",
+            "soil":"Sand, chalky, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The baby rubber plant is an evergreen. flowering plant with waxy leaves. Despite the name. it is not actually related to true rubber trees. The plant gets its scientific specific name. obtusifolia. from the term for blunt leaved. in reference to its leaves'shapes.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Radiator plant",
+        "known":[
+            "Pepper face",
+            "American pepper plant"
+        ],
+        "botanical":"Peperomia obtusifolia"
+    },
+    {
+        "id":"2",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2FBoston%20fern.jpg?alt=media&token=ca1e8eab-3bd9-4b0f-a1a8-8da072fca4b7",
+        "name":"Boston fern",
+        "careGuide":{
+            "water":"Water The boston fern should be watered consistently at the soil level, avoiding the fronds. Water after the first inch of topsoil has become dry. Keep this species in a well-draining pot, and its roots should not sit in overly soggy soil. At most, the soil should be kept lightly moist in between watering. Room-temperature water that has been filtered or allowed to sit stagnantly overnight should be used.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Shape the plant every 2 months during the growing season.",
+            "plantingTime":"Spring, summer, autumn",
+            "propagation":"Division, Tissue culture",
+            "harvestTime": "",
+            "pottingSuggestions":"Needs excellent drainage in pots"
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"",
+            "plantHeight":"40 cm to 2.5 m",
+            "spread":"61 cm to 91 cm",
+            "size":"",
+            "habitat":"Forests, Swamps",
+            "flower":"",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":"Brown"
+        },
+        "conditions":{
+            "difficulty":"Boston fern is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Partial sun to full shade",
+            "hardiness":"-7 °C",
+            "hardinessZones":"10-12",
+            "soil":"Sand, loam; well drained; slightly acidic,neutral"
+        },
+        "description":"The Nephrolepis exaltata is commonly known as the boston fern or sword fern. It is a common and popular houseplant that is native to tropical environments. While the boston fern can survive droughts, it prefers humid environments and should be misted regularly. It is generally considered non- toxic and is pet friendly.",
+        "diseases":"scale insects",
+        "gardenUse":"",
+        "species":"Boston ferns",
+        "known":[
+            "Sword fern",
+            "Fishbone fern"
+        ],
+        "botanical":"Nephrolepis exaltata"
+    },
+    {
+        "id":"3",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2FCorn%20plant.jpg?alt=media&token=2cc7c827-7c26-434e-b700-361fa8f981e8",
+        "name":"Corn plant",
+        "careGuide":{
+            "water":"The corn plant should be allowed to dry out partially in between waterings, but its soil should never become completely dry. For best results, allow the top half layer of soil to dry out before watering. This species grows best in a well-draining pot that is thoroughly drained before each watering",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Cutting, Division",
+            "harvestTime": "",
+            "pottingSuggestions":"Before potting, it is necessary to sterilize and kill insects. Change pots and soil every spring. Indoor potted plants require frequent ventilation and sufficient sun exposure."
+        },
+        "characteristics":{
+            "plantType":"Shrub",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"4.5 m to 15 m",
+            "spread":"1 m",
+            "size":"2.5 cm",
+            "habitat":"Understorey of montane forest, dense stands",
+            "flower":"Yellow ",
+            "leaf ":"White",
+            "fruit":"Red",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Corn plant is super easy to take care of,with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Partial sun",
+            "hardiness":"4°C",
+            "hardinessZones":"10-11",
+            "soil":"Chalky, loam, clay, sand; well drained;slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Corn plant (Dracaena fragrans) is an evergreen,slow-growing perennial shrub native to tropical Africa. Also, it is a classic houseplant, grown in Europe since the 1 800s. Its glossy green foliage that resembles corn leaves grow on top of a thick cane,which is why the plant is sometimes called :false palm tree.",
+        "diseases":"Glass house red spider mite, scale insect",
+        "gardenUse":"Large potted plants can be displayed in venues and lobbies; small potted plants can be used to decorate studies, windowsills and bedrooms.",
+        "species":"Dragon trees",
+        "known":[
+            "Cornstalk dracena",
+            "Mass cane"
+        ],
+        "botanical":"Dracaena fragrans"
+    },
+    {
+        "id":"4",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2FDieffenbachia.jpg?alt=media&token=9983f744-7b24-4dfb-95c7-d0e2ad8e7ced",
+        "name":"Dieffenbachia",
+        "careGuide":{
+            "water":"The dieffenbachia plant should be watered when the top two inches of soil become dry. In general, the soil should be kept very lightly moist at all times throughout the growing season between spring and fall.The leaves of this species will shrivel if it is not watered frequently enough. With adequate water, the leaves will harden and become more resilient.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Cutting, Division",
+            "harvestTime": "",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"All year around",
+            "plantHeight":"91 cm to 3 m",
+            "spread":"61 cm to 91 cm",
+            "size":"",
+            "habitat":"Edge of a wetland slough, trail up mountain, mature forest",
+            "flower":"Green",
+            "leaf ":"White",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Dieffenbachia is not difficult to take care of. With proper care, your Dieffenbachia will grow well under certain environments.",
+            "sunlight":"Partial sun",
+            "hardiness":"-1°C",
+            "hardinessZones":"10-12",
+            "soil":"Chalky, loam, clay, sand; well drained;slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The focal point of a dieffenbachia is the beautiful look and patterns of the foliage, which are often variegated. This plant has showy white blooms, but only flowers in perfect conditions. Use caution,because the dieffenbachia is poisonous; if the sap is ingested it can cause muteness for up to two weeks by numbing the throat and vocal cords.",
+        "diseases":"Wheat leaf blight, bacterial infection, fungal infection; aphids, Pseudococcjdae, spider mite,scale insect",
+        "gardenUse":"Dieffenbachia is a common ornamental perennial grown as a house plant. The lovely variegated leaves are its most prized feature, giving a boost of color and interest to what otherwise may be an uninteresting area of the house. Dieffenbachia is perfect for those who don't have access to an outside garden and want an easy-to-care-for plant to bring indoors. Houseplants that require similar growing conditions, such as the spider plant, will be great companions.",
+        "species":"Dumbcanes",
+        "known":[
+            "Mother-in-law plant",
+            "Poison arum"
+        ],
+        "botanical":"Dieffenbachia seguine"
+    },
+    {
+        "id":"5",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2FEnglish%20ivy.jpg?alt=media&token=b4a6c1d1-1f9f-48ba-b220-ac36a2ee72c3",
+        "name":"English ivy",
+        "careGuide":{
+            "water":"Make sure not to overwater english ivy because it is susceptible to root rot. As a general rule, it is time to water english ivy after the first half inch of topsoil is dry. This species should be grown in a well-draining pot and not allowed to sit in water.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Autumn",
+            "harvestTime": "",
+            "pottingSuggestions":"Potted soil should not be too wet. Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"20 m to 30 m",
+            "spread":"91 cm to 15 m",
+            "size":"3 cm to 5 cm",
+            "habitat":"Woodlands, hedges, shady places",
+            "flower":"Yellow",
+            "leaf ":"Yellow",
+            "fruit":"Black",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"English ivy is super easy to take care of,with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Partial sun to full shade",
+            "hardiness":"-29°C",
+            "hardinessZones":"4-9",
+            "soil":"Chalky, loam, clay, sand; well drained;slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"English ivy is the most common climber of European forests. It is a perennial woody vine with evergreen, dark, shiny lobed leaves. It utilizes aerial rootlets to attach to the tree bark with exceptional strength, helping the ivy creep more than 15 m up a tree. English ivy also grows as a forest groundcover and is invasive outside of its native range.",
+        "diseases":"Brown spot; aphids, scale insects, weevil weevil",
+        "gardenUse":"English ivy is an evergreen woody vine commonly found in gardens across temperate regions. It is prized for its deep green leaves and ability to grow in shaded areas. This climber's dense foliage means it is suitable for coverage and ground cover. English ivy is appropriate for Victorian gardens. Plant with flowering creepers such as Climbing Rose to make a color contrast.",
+        "species":"Ivies",
+        "known":[
+            "Common ivy",
+            "European ivy"
+        ],
+        "botanical":"Hedera helix"
+    },
+    {
+        "id":"6",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2FBoston%20fern.jpg?alt=media&token=ca1e8eab-3bd9-4b0f-a1a8-8da072fca4b7",
+        "name":"Garden croton",
+        "careGuide":{
+            "water":"The garden croton's soil should be kept slightly moist at all times during the growing season between spring and summer. Then, during the dormant season between fall and winter, the soil should be kept slightly drier without drying out completely for long periods of time. Water for garden croton should be filtered or stagnant tap water to avoid raising the pH of the soil with chemicals.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Division, Cutting",
+            "harvestTime": "",
+            "pottingSuggestions":"Needs excellent drainage in pots. When grown too large for the pot, it should be repotted and replanted."
+        },
+        "characteristics":{
+            "plantType":"Shrub",
+            "lifespan":"Perennial",
+            "bloomTime":"Autumn",
+            "plantHeight":"1 m to 3 m",
+            "spread":"1 m",
+            "size":"5 mm to 1.5 cm",
+            "habitat":"Forests, scrub",
+            "flower":"White",
+            "leaf ":"Green",
+            "fruit":"Green",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Garden croton is not difficult to take care of. With proper care, your Garden croton will grow well under certain environments.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-1°C",
+            "hardinessZones":"10-13",
+            "soil":"Loam; well drained; slightly acidic, neutral,slightly alkaline"
+        },
+        "description":"The garden croton is a showy tropical display that does well indoors or in warm climates. Known for its attractive foliage, this plant can have both to color and structural variations in its leaves. Leaf colors can include orange, yellow, scarlet, white, and green, and many times all are present on one plant.",
+        "diseases":"Scale insect, grass house red spider mite",
+        "gardenUse":"Garden croton is an evergreen woody shrub commonly found jn tropical gardens. It is prized for its colorful foliage and interesting leaf formations.Its large leaves and shape make it suitable for landscape hedges and borders. Garden croton is appropriate for tropical-style ornamental gardens.Suggested companion plants include Coleus or Lantana to make color contrasts.",
+        "species":"Codiaeum",
+        "known":[
+            "Variegated croton",
+            ""
+        ],
+        "botanical":"Codiaeum variegatum"
+    },
+    {
+        "id":"7",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2FGolden%20pothos.jpg?alt=media&token=c9a5210d-2661-463c-bcf7-2a8cc788aef5",
+        "name":"Golden pothos",
+        "careGuide":{
+            "water":"Golden pothos grows best in moist soil with medium humidity. When growing golden pothos, it is beneficial to mist the plant's leaves regularly with a spray bottle to maintain humidity around the leaf area. The top layer of soil should be allowed to dry between wateringsj and the plant will grow best if it is kept in a pot with a draining hole in the bottom.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Shape the plant every 2 months during the growing season.",
+            "plantingTime":"All year around",
+            "propagation":"Cutting, Division",
+            "harvestTime": "",
+            "pottingSuggestions":"Repot in the spring, choosing a container that's no more than 5 cm larger than the plant's rootball. Use a nutrient-rich, soil-based potting mix."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring, Summer",
+            "plantHeight":"20m",
+            "spread":"20 cm to 30 cm",
+            "size":"2.5 cm",
+            "habitat":"Tropical forests",
+            "flower":"Green",
+            "leaf ":"Yellow",
+            "fruit":"Yellow",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Golden pothos is super easy to take care of,with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Partial sun",
+            "hardiness":"-1°C",
+            "hardinessZones":"9-11",
+            "soil":"Chalky, loam, clay, sand; well drained;slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The golden pothos is a popular flowering house plant that's commonly seen in Australia, Asia, and the West Indies. It goes by many nicknames, including devil's ivy, because it is so hard to kill, and can grow in the dark. Golden pothos has poisonous sap, so it should be kept away from pets and children.",
+        "diseases":"Wheat leaf blight fungus, bacterial infections; Pseudococcidae, spider mites, scale insects",
+        "gardenUse":"Golden pothos is a perennial evergreen vine commonly found in gardens of tropical climates. It is prized for its variegated green and yellow leaves. The trailing tendrils make it suitable for ground cover or as an understory plant. Golden pothos is essential in tropical-themed gardens. Plant with ferns for textural contrast or other succulents for a beautiful scene.",
+        "species":"Pothos",
+        "known":[
+            "Devil's ivy",
+            "Ceylon creeper"
+        ],
+        "botanical":"Epipremnum aureum"
+    },
+    {
+        "id":"8",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2FGuinea%20peanut.jpg?alt=media&token=5b7d9ae3-41b5-4354-a649-b78b44c1df9d",
+        "name":"Guinea peanut",
+        "careGuide":{
+            "water":"Harvest Time Mid spring, Late spring, Early summer, Mid summer",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"",
+            "propagation":"",
+            "harvestTime": "",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Winter",
+            "plantHeight":"9 m to 18m",
+            "spread":"15m",
+            "size":"8 cm to 10 cm",
+            "habitat":"Alluvial plains, lowland rainforest",
+            "flower":"White",
+            "leaf ":"",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"",
+            "hardinessZones":"10-12",
+            "soil":""
+        },
+        "description":"Guinea peanut (Pachira glabra) can regularly be found in stores sold in small pots as braided Bonsai plants. Their showy trunk will stay hued with green throughout maturity. The wood is sometimes used for objects of light use, such as toys and boxes. It's often mistaken with the Malabar chestnut (Pachira aquatica), which doesn't develop a mature bulbous base like the guinea peanut.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Pachira",
+        "known":[
+            "Money tree",
+            "Lucky tree"
+        ],
+        "botanical":"Pachira glabra"
+    },
+    {
+        "id":"9",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2FHeartleaf%20philodendron.jpg?alt=media&token=f578446b-ed74-44c5-801f-6fca53d7600c",
+        "name":"Heartleaf philodendron",
+        "careGuide":{
+            "water":"The heartleaf philodendron should be watered regularly and kept in a well-draining pot. The soil surroudjng the roots of this species should be allowed to dry out between watering. Overwatering can cause damage, and yellow leaves are an indicator of this. Plants that are kept in higher amounts of light will require slightly more watering.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, Autumn",
+            "propagation":"Division, Cutting",
+            "harvestTime": "",
+            "pottingSuggestions":"Should be repotted once every 2 years."
+        },
+        "characteristics":{
+            "plantType":"Herb, Vine",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"3 m to 6 m",
+            "spread":"91 cm to 1.8 m",
+            "size":"",
+            "habitat":"Humid tropical forests",
+            "flower":"White , Green",
+            "leaf ":"Green",
+            "fruit":"White , Orange",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Growing Heartleaf philodendron is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Partial sun to full shade",
+            "hardiness":"-1 °C",
+            "hardinessZones":"11-12",
+            "soil":"Sand, loam"
+        },
+        "description":"Philodendron hederaceum is an evergreen climbing plant originating from the West Indies. It is a widely cultivated houseplant, famous for its glossy, heart- shaped leaves, hence the common name heartleaf philodendron. It contains calcium oxalate crystals, so it can be mildly toxic when ingested.",
+        "diseases":"Wheat leaf blight fungus, bacterial infection,fungal infection; Pseudococcidae, spider mite, scale insect",
+        "gardenUse":"",
+        "species":"Philodendrons",
+        "known":[
+            "Vilevine",
+            "Velvet leaf philodendron"
+        ],
+        "botanical":"Philodendron hederaceum"
+    },
+    {
+        "id":"10",
+        "image":"https://firebasestorage.googleapis.com/v0/b/plant-scope-fbaf9.appspot.com/o/image%2FSnake%20plant.jpg?alt=media&token=7fe51030-7dcd-4e6c-ad6a-a1c018776b7a",
+        "name":"Snake plant",
+        "careGuide":{
+            "water":"Snake plants grow best if their soil dries out completely in between waterings. Overwatering is the most common mistake houseplant owners face with this species. The plant should not be watered if there is any dampness present in its root area because it is susceptible to root rot. If possible, it is best to water from the bottom of the pot so the roots can grow in a downward direction.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, summer, autumn",
+            "propagation":"Division, Cutting",
+            "harvestTime": "",
+            "pottingSuggestions":"Mother-in-law's tongue should change pots and soil every two years."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"30 cm to 2 m",
+            "spread":"30 cm",
+            "size":"Inflorescence 1.6 cm to 3 cm",
+            "habitat":"Roadsides, abandoned gardens, waste areas,disturbed sites, coastal environs, open woodlands, riparian vegetation, the margins of closed forests",
+            "flower":"White",
+            "leaf ":"Green , Yellow , Cream , Gray , Silver",
+            "fruit":"Green",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Snake plant is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-7 °C",
+            "hardinessZones":"10-12",
+            "soil":"Sand; well drained; neutral, slightly alkaline"
+        },
+        "description":"Snake plant can be considered part house plant and part architectural display, as its sword-like leaves with bold striping patterns are distinctive and eye- catching. Use caution with this plant, however, because it is poisonous when ingested and can cause nausea, vomiting, and even swelling of the throat and tongue.",
+        "diseases":"Leaf spot, root rot; slugs, red spider mites, thrips",
+        "gardenUse":"Snake plant is an evergreen perennial commonly found in arid gardens of warm climates. It is prized for its attractive vertical variegated foliage that is easy to maintain. Its vertical growth and height mean that it is suitable for borders. Snake plant is used for Mediterranean gardens and rockeries. Plant with Blue Fescue or Jade plant for color contrast.",
+        "species":"Snake plants",
+        "known":[
+            "Mother-in-law's tongue",
+            "Viper's bowstring hemp"
+        ],
+        "botanical":"Sansevieria trifasciata"
+    }
+]

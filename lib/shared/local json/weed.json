@@ -1,0 +1,433 @@
+[
+    {
+        "id":"1",
+        "image":"https://cimg2.ibsrv.net/cimg/www.davesgarden.com/700x312_100-1/570/dock-2-359570.jpg",
+        "name":"Bitter dock",
+        "careGuide":{
+            "water":"Bitter dock is found in moist to mesic soils of disturbed land. Although they prefer fertile and loamy soils, they will can also grow in areas that are exposed to flooding. Gardeners should maintain a moderate amount ofn moisture to support its growth.",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Sowing",
+            "harvestTime":"Summer, autumn, winter",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"40 cm to 1.5 m",
+            "spread":"30 cm",
+            "size":"6 mm long",
+            "habitat":"Waste ground, hedgerows, field margins",
+            "flower":"Red , Green , Orange",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":"Red"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-34 °C",
+            "hardinessZones":"",
+            "soil":"Chalky, loam, clay, sand; well drained, poorly drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Bitter dock (Rumex obtusifolius) grows wild in shady, temperate areas around the world. Its leaves and stems are edible when young, as are the seeds. It was used in Medieval European folk medicine, and the roots can be used to make yellow dye.",
+        "diseases":"Leafminers",
+        "gardenUse":"",
+        "species":"Docks",
+        "known":[
+            "Bluntleaf Dock",
+            "Red-Veined Dock"
+        ],
+        "botanical":"Rumex obtusifolius"
+    },
+    {
+        "id":"2",
+        "image":"https://housemanservices.com/wp-content/uploads/2019/07/Common-Weed-Series-%E2%80%93-All-about-Chickweeds-1-1000x600.jpeg",
+        "name":"Common chickweed",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulates",
+            "fertilization":"",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, Autumn",
+            "propagation":"Sowing",
+            "harvestTime":"All year around",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual, Perennial",
+            "bloomTime":"Spring, summer, autumn",
+            "plantHeight":"10 cm to 30 cm",
+            "spread":"10 cm to 30 cm",
+            "size":"2 mm to 5 mm",
+            "habitat":"A variety of soil types",
+            "flower":"White",
+            "leaf ":"Green",
+            "fruit":"Brown , Bronze",
+            "stem":"Brown , Bronze , Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-12 °C",
+            "hardinessZones":"",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The common chickweed gets its name due to the fact that chickens love to eat it, though they're not alone in that respect. Though it's often considered a nuisance weed, most parts of this plant can be consumed raw or cooked and used similar to spinach. The saponins in common chickweed are slightly toxic but will only have an effect if ingested in huge quantities.",
+        "diseases":"Camptogramma bilineata, agrotis venerabilis, nathalis iole",
+        "gardenUse":"",
+        "species":"Chickweeds",
+        "known":[
+            "Nodding chickweed",
+            "Maruns"
+        ],
+        "botanical":"Stellaria media"
+    },
+    {
+        "id":"3",
+        "image":"https://www.bolster.eu/media/images/common_vetch_vicia_sativa_800x800_360.jpg?1614700345",
+        "name":"Common vetch",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"Spring",
+            "propagation":"Sowing",
+            "harvestTime":"Summer, autumn",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual",
+            "bloomTime":"Summer",
+            "plantHeight":"15 cm to 1.2 m",
+            "spread":"1 5 cm",
+            "size":"1 cm to 3 cm",
+            "habitat":"Hedges, grassy places",
+            "flower":"Purple , Pink",
+            "leaf ":"Green",
+            "fruit":"Brown , Black",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-7 °C",
+            "hardinessZones":"9-12",
+            "soil":"Sand, chalky, loam; well drained"
+        },
+        "description":"Common vetch (Vicia sativa) is an annual herb plant also commonly called vetch, tare, and garden vetch. It is often considered a weed, but is also utilized for manure and animal feed for livestock across the world. When grown for agricultural purposes, it is sown in dense fields.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Vetches",
+        "known":[
+            " Garden vetch",
+            " Summer vetch"
+        ],
+        "botanical":"Vicia sativa"
+    },
+    {
+        "id":"4",
+        "image":"https://www.thespruce.com/thmb/1BRTIBvcZQJiG47Xhz9K8a8ecYg=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/controlling-and-preventing-bindweed-2540090-hero-9209ac53971941398b8bf900582a1b0c.jpg",
+        "name":"Field bindweed",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"Spring, Early summer",
+            "propagation":"Sowing, Division",
+            "harvestTime":"Summer, autumn",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb, Vine",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"50 cm to 2 m",
+            "spread":"91 cm to 1.8 m",
+            "size":"1 cm to 2.5 cm",
+            "habitat":"Hedgerows, Fields, Waste places, Fences",
+            "flower":"White , Pink , Variegated",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-29 °C",
+            "hardinessZones":"7-10",
+            "soil":"Sand, loam; neutral, slightly alkaline"
+        },
+        "description":"Field bindweed (Convolvulus arvensis) is a native Eurasian plant related to morning glory. It is considered an invasive species in non-native areas because it competes with other plants for sunlight and moisture. Field bindweed is very hard to eradicate because its taproots grow so deep and its seeds can remain viable for decades.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Bindweeds",
+        "known":[
+            "Orchard morning-glory",
+            "Creeping jenny"
+        ],
+        "botanical":"Convolvulus arvensis"
+    },
+    {
+        "id":"5",
+        "image":"https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_487/k%2Farchive%2F09cffb60958ecfb98fca95a1193dd5c9908f602a",
+        "name":"Ground ivy",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"",
+            "plantingTime":"Early spring, Mid spring",
+            "propagation":"Division, Cutting, Layering",
+            "harvestTime":"Early summer",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"20 cm",
+            "spread":"1 m",
+            "size":"2.5 cm",
+            "habitat":"Damp waste ground, hedgerows, woodland margins",
+            "flower":"Purple , Blue , Pink",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-40 °C",
+            "hardinessZones":"",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Ground ivy (Glechoma hederacea) is a perennial evergreen trailing plant, often found in grasslands and woodlands. Saxon peoples once spread the plant, but it has become invasive in some parts of the world now. The fast-growing ground ivy can be toxic to horses but generally cannot harm other animals or humans.",
+        "diseases":"Slugs, snails",
+        "gardenUse":"",
+        "species":"Glechoma",
+        "known":[
+            "Creeping charlie",
+            "Run-away-robin"
+        ],
+        "botanical":"Glechoma hederacea"
+    },
+    {
+        "id":"6",
+        "image":"https://cdn.shopify.com/s/files/1/0011/2341/8172/products/Cat-Grass-CC100-1_515x640_crop_center.jpg?v=1610656308",
+        "name":"Orchard grass",
+        "careGuide":{
+            "water":"Average water needs,watering when the top 3 cm of soil has dried out.",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"Spring",
+            "propagation":"Sowing",
+            "harvestTime":"Spring, Summer",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"perennial",
+            "bloomTime":"Spring, summer",
+            "plantHeight":"20 cm to 1.4 m",
+            "spread":"30 cm",
+            "size":"Inflorescence 4 cm to 20 cm",
+            "habitat":"Meadows, waste places, roads, downs",
+            "flower":"White , Green , Pink",
+            "leaf ":"Blue , Green",
+            "fruit":"Yellow",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-29 °C",
+            "hardinessZones":"",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Orchard grass (Dactylis glomerata) is native to Eurasia and was introduced to North America around the 1 8th century as a forage grass. Now it is widely naturalized in the U.S., Australia, and New Zealand. It is also called cat grass. because our feline friends love to chew on it.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Cockls-foot",
+        "known":[
+            "Cock's-foot",
+            "Slender cock's-foot"
+        ],
+        "botanical":"Dactylis glomerata"
+    },
+    {
+        "id":"7",
+        "image":"https://growgreatfruit.com/wp-content/uploads/2020/04/petty-spurge-600x560.jpeg",
+        "name":"Petty spurge",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"Early spring",
+            "propagation":"Sowing",
+            "harvestTime":"Spring, Summer, Early winter",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"5 cm to 30 cm",
+            "spread":"25 cm",
+            "size":"2.5 cm",
+            "habitat":"Cultivated arable land, gardens, other disturbed land",
+            "flower":"Yellow , Green",
+            "leaf ":"Green , Gray , Silver",
+            "fruit":"Brown , Bronze , Black",
+            "stem":"Red  , Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-7 °C",
+            "hardinessZones":"9 - 11",
+            "soil":"Well drained"
+        },
+        "description":"Petty spurge (Euphorbia peplus) is an annual plant from Europe, Asia, and Africa. It is fast-growing and has become invasive in some countries because it outcompetes other species for resources such as moisture and sunlight. Petty spurge latex is mildly toxic, has nevertheless attracted the attention of researchers in the US and Germany who hope to isolate useful compounds from it.",
+        "diseases":"Stem rot",
+        "gardenUse":"",
+        "species":"Spurges",
+        "known":[
+            "Radium weed",
+            "Milkweed"
+        ],
+        "botanical":"Euphorbia peplus"
+    },
+    {
+        "id":"8",
+        "image":"http://nadiasyard.com/wp-content/uploads/2011/08/DSC_0171.jpg",
+        "name":"American pokeweed",
+        "careGuide":{
+            "water":"The american pokeweed needs intermediate amounts of water in terms of plant care. This species should be watered approximately once a week, and its soil should be allowed to partially dry out in between watering. Yellowing leaves are a sign of overwatering in this plant.",
+            "fertilization":"",
+            "pruning":"Shape the plant every 2 months during the growing season.",
+            "plantingTime":"Spring, summer, autumn",
+            "propagation":"Sowing",
+            "harvestTime":"Spring",
+            "pottingSuggestions":"Growing american pokeweed in a pot with nutrient-rich soil helps to keep the plant's taproot in check."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"1 m to 3 m",
+            "spread":"91 cm to 1.5 m",
+            "size":"Inflorescence 2 cm to 5 cm",
+            "habitat":"Clearings, woodland ,margins, roadsides, disturbed areas, pastures,thickets",
+            "flower":"White , Pink",
+            "leaf ":"Purple , Green",
+            "fruit":"Purple , Black",
+            "stem":"Red , Green"
+        },
+        "conditions":{
+            "difficulty":"American pokeweed is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-21 °C",
+            "hardinessZones":"",
+            "soil":"Clay, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Although its berries look juicy and tempting, the fruits and the root of american pokeweed are toxic and should not be eaten. American pokeweed is considered a pest species by farmers but is nevertheless often grown as an ornamental plant. Its berries can be made into pokeberry ink as well.",
+        "diseases":"Aphids; Mosaic virus",
+        "gardenUse":"Grown as ornamental shrubs, with their dark berries adding color to a garden.",
+        "species":"Pokeweeds",
+        "known":[
+            "Dragonberries",
+            "Poke salad"
+        ],
+        "botanical":"Phytolacca americana"
+    },
+    {
+        "id":"9",
+        "image":"https://www.canr.msu.edu/contentAsset/image/2a95d1d5-b3a7-4571-978b-8f7c5d2c2d9e/fileAsset/filter/Resize/resize_w/600",
+        "name":"Purple dead-nettle",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"Early spring",
+            "propagation":"",
+            "harvestTime":"Spring",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual",
+            "bloomTime":"Spring, Winter",
+            "plantHeight":"5 cm to 30 cm",
+            "spread":"20 cm",
+            "size":"1.02 cm to 2 cm",
+            "habitat":"Roadsides, waste places, cultivated land",
+            "flower":"Purple , Pink",
+            "leaf ":"Purple",
+            "fruit":"",
+            "stem":"Red , Purple"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-23 °C",
+            "hardinessZones":"",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Purple dead-nettle (Lamium purpureum) is an herbaceous annual weed, commonly found in meadows, wastes, gardens, and at the edges of roads and woodlands. Though it appears similar to true nettles, purple dead-nettle gets its name because it does not have live . nettle poison that harms the skin. It originated in Asia and prefers environments with full sun.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Deadnettles",
+        "known":[
+            "",
+            ""
+        ],
+        "botanical":"Lamium purpureum"
+    },
+    {
+        "id":"10",
+        "image":"https://i.guim.co.uk/img/media/9e7d6fe7eadf0bbba93de57c5ad37f9f23762a14/0_90_2700_1620/master/2700.jpg?width=620&quality=85&auto=format&fit=max&s=a64be7b587955ebc5f3a3adf8781ccc3",
+        "name":"Red clover",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, summer",
+            "propagation":"sowing",
+            "harvestTime":"Mid summer, Late summer, Early autumn, Mid autumn",
+            "pottingSuggestions":"Needs excellent drainage in pots"
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Biennial, Perennial",
+            "bloomTime":"Spring, summer",
+            "plantHeight":"20 cm to 80 cm",
+            "spread":"40 cm",
+            "size":"1.2 cm to 1.5 cm",
+            "habitat":"Calcareous soils",
+            "flower":"Purple , Pink",
+            "leaf ":"Green",
+            "fruit":"Brown , Bronze",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Red clover is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-40 °C",
+            "hardinessZones":"5-9",
+            "soil":"Clay, loam; well drained; slightly acidic"
+        },
+        "description":"Red clover is widely cultivated as a fodder plant and green manure because its roots can fix nitrogen and increase the fertility of the soil. The cultivated red clover is inevitably escaped and is now naturalized globally including the United States and Australia. Its flowers are attractive so it is cultivated as an ornamental plant as well.",
+        "diseases":"Fungal diseases, red clover rust; nematodes",
+        "gardenUse":"Red clover can be used as an attractive groundcover in yards and parks due to its colorful blooms and low, dense growth pattern. As a nitrogen-fixing plant, its presence improves soil quality and gardeners may add it to areas that need enrichment. It is a good companion planting in vegetable gardens, particularly for legumes.",
+        "species":"Clovers",
+        "known":[
+            "Broad-leaved clover",
+            "Cultivated clover"
+        ],
+        "botanical":"Trifolium pratense"
+    }
+  
+]

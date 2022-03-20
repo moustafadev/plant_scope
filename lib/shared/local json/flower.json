@@ -1,0 +1,390 @@
+[
+    {
+        "id":"1",
+        "image":"https://www.gardenia.net/storage/app/public/uploads/images/detail/bPKnoBhjzzSQBrGUAkQYyZXNFUwRRFyYnwr7M2YN.jpeg",
+        "name":"Barberton daisy",
+        "careGuide":{
+            "water":"When barberton daisy is in bloom it needs more water. Water as soon as the soil begins to dry out since it should never become completely dry. After flowering this plant only needs to be watered when the top 2.5 cm of soil dries out.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, summer",
+            "propagation":"Sowing, Cutting, Division",
+            "harvestTime":"",
+            "pottingSuggestions":"Needs excellent drainage in pots"
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"perennial",
+            "bloomTime":"Spring, summer,autumn",
+            "plantHeight":"30 cm to 60 cm",
+            "spread":"30 cm to 60 cm",
+            "size":"Inflorescence 6 cm to 10 cm",
+            "habitat":"Well-drained soils",
+            "flower":"White , Purple , Gold , Yellow , Orange , Red , Pink",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Growing Barberton daisy is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun",
+            "hardiness":"-12 °C",
+            "hardinessZones":"8 - 11",
+            "soil":"Sand, clay"
+        },
+        "description":"The barberton daisy produces bright, attractive flowers. It is native to Southeastern Africa and has become increasingly popular as a house plant far outside its home range. The South African province of Mpumalanga includes the barberton daisy on its flag and coat of arms.",
+        "diseases":"Anthracnose, powdery mildew, downy mildew, fungal infection; aphids, red spider mites, thrips, whiteflies",
+        "gardenUse":"Barberton daisy are valued most in gardens for the striking colors of their large blooms. Often used in flower beds, cut flower gardens, and container plantings, they can make a striking addition to any kind of flower garden. It may be hard to match their blooms well with other flowers, however, and they are best kept in close company with more delicate- looking plants with smaller blooms, such as Diascia and Calibrachoa.",
+        "species":"Transvaal daisies",
+        "known":[
+            "African daisy",
+            " Gerbera daisy"
+        ],
+        "botanical":"Gerbera jamesonii"
+    },
+    {
+        "id":"2",
+        "image":"https://i.pinimg.com/564x/fe/82/31/fe82311c2eb1c1c9a39ea060cf993b5a.jpg",
+        "name":"Bearded iris",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Division, Tissue culture",
+            "harvestTime":"Late summer, Early autumn",
+            "pottingSuggestions":"Needs excellent drainage in pots"
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"60 cm to 1.2 m",
+            "spread":"30 cm",
+            "size":"12 cm",
+            "habitat":"Dry, rocky places",
+            "flower":"White , Yellow , Purple , Blue , Orange , Pink , Variegated",
+            "leaf ":"Green , Gray , Silver",
+            "fruit":"",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-40 °C",
+            "hardinessZones":"4-10",
+            "soil":"Sand, chalky, loam; well drained; neutral, slightly alkaline"
+        },
+        "description":"The bearded iris is a flowering plant that appears in many different colors. It is a popular garden plant because it's easy to grow. Though their native lands are in Europe, bearded irises are often grown in Iranian cemeteries.",
+        "diseases":"Virus, leaf spot disease, iris rhizome rot; slugs, snails, thrips",
+        "gardenUse":"As one of the most common perennials found in garden beds, the bearded iris is beloved for its lush petals that come in a rainbow of colors. These flowers need ample space and sunlight to grow, so they are typically grown in a clump as a standalone  specimen. Bearded iris is beautiful and easy to grow, so it's found in all types of gardens, from cottage style to urban flower beds. It works well in combination with oriental poppies, alliums, and salvias.",
+        "species":"Irises",
+        "known":[
+            "Common Flag",
+            "German bearded iris"
+        ],
+        "botanical":"Iris germanica"
+    },
+    {
+        "id":"3",
+        "image":"https://images.ctfassets.net/zma7thmmcinb/2Be5PUhU6gpb7EXfzeyIom/0df82fdee7808630bd293bd5535bf288/Bloomstruck_Bigleaf-Hydrangea-pv.jpg",
+        "name":"Bigleaf hydrangea",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring, Autumn",
+            "propagation":"Cutting, Layering, Division",
+            "harvestTime":"",
+            "pottingSuggestions":"With fast-growing roots, a bigleaf hydrangea in a pot will need plenty of space and water to prevent it from drying out."
+        },
+        "characteristics":{
+            "plantType":"Shrub",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"1 m to 4m",
+            "spread":"80 cm to 2.5 m",
+            "size":"Flower 15 cm to 46 cm",
+            "habitat":"Sunny places near the coast",
+            "flower":"White , Red , Purple , Blue , Green , Pink , Cream",
+            "leaf ":"Yellow , Red , Purple , Green , Pink , Brown",
+            "fruit":"",
+            "stem":"Bronze , Purple , Black"
+        },
+        "conditions":{
+            "difficulty":"Bigleaf hydrangea is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-23 °C",
+            "hardinessZones":"6-9",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The bigleaf hydrangea is a deciduous shrub native to Japan, and is known for its lush, oval, colorful inflorescence. The two types of Hydrangea macrophylla are mopheads - with large, ball-shaped, sterile flower clusters, and lacecapes - with small round fertile flowers in the center, and sterile flowers on the outer side of each inflorescence. Depending on soil pH, blooms can change color from pink to blue.",
+        "diseases":"Botrytis blight, powdery mildew, brown spot, ringspot virus, mosaic virus; aphids, stink bugs, hydrangea scales, spider mites",
+        "gardenUse":"Bigleaf hydrangea is a deciduous shrub commonly found in gardens. It is prized for blooming throughout the summer and its large ball-shaped flowers ('Mopheads). Its height means can be used for hedging, as a screen, or as an accent plant. Bigleaf hydrangea is often a feature of cottage and seaside gardens. Plant with coneflower to make a color contrast.",
+        "species":"Hydrangeas",
+        "known":[
+            "French hydrangea",
+            "Hortensia"
+        ],
+        "botanical":"Hydrangea macrophylla"
+    },
+    {
+        "id":"4",
+        "image":"https://m.media-amazon.com/images/I/41rj-8i91gL.jpg",
+        "name":"China rose",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Cutting, Division",
+            "harvestTime":"Autumn",
+            "pottingSuggestions":"Increase pot diameter year by year, and replace pots before or after the winter each year. Masonry pots are preferred for potting."
+        },
+        "characteristics":{
+            "plantType":"Shrub, Vine",
+            "lifespan":"perennial",
+            "bloomTime":"Spring, summer,autumn",
+            "plantHeight":"1 m to 2m",
+            "spread":"91 cm to 1.8 m",
+            "size":"4 cm to 5 cm",
+            "habitat":"Garden",
+            "flower":"White , Purple , Gold , Cream , Yellow , Orange , Variegated , Pink , Red",
+            "leaf ":"Green",
+            "fruit":"Red , Orange",
+            "stem":"Green , Brown"
+        },
+        "conditions":{
+            "difficulty":"China rose is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-23 °C",
+            "hardinessZones":"6 - 9",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The china rose (Rosa chinensis) is a Southwest China native. The plant has been cultivated for so long that it has become hard to tell the difference between wild and cultivated varieties. With medium- sized clusters of flowers and a long blooming season, it is easy to see why the china rose was chosen as the basis for many rose hybrids.",
+        "diseases":"Spider mites, argid sawflies, aphids, powdery mildew, black spot, leafcutting bees, japanese beetles",
+        "gardenUse":"China rose is a deciduous shrub commonly found in gardens. It is prized for its long-lasting continuous summer-time blooms. It has unordered flowers which makes it suitable for informal flowering hedges and mixed borders. China rose is appropriate for Victorian-style gardens where it is often trained to climb trellises. Plant with Cranesbill or English Lavender for strong color contrast.",
+        "species":"Roses",
+        "known":[
+            "Garden rose",
+            "Bengal rose"
+        ],
+        "botanical":"Rosa chinensis"
+    },
+    {
+        "id":"5",
+        "image":"https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Hyacinths--Ellen-Kir_viNnG3OjA3D7.jpeg",
+        "name":"Common hyacinth",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Winter",
+            "propagation":"Sowing, Division",
+            "harvestTime":"Summer",
+            "pottingSuggestions":"Needs excellent drainage in pots"
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"perennial",
+            "bloomTime":"Spring, summer",
+            "plantHeight":"15 cm to 50 cm",
+            "spread":"7 cm to 10 cm",
+            "size":"2.5 cm",
+            "habitat":"Among rocks",
+            "flower":"White , Yellow , Purple , Blue , Pink , Cream",
+            "leaf ":"Green",
+            "fruit":"Black",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Growing Common hyacinth is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-18 °C",
+            "hardinessZones":"4-8",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Common hyacinth is one of the heralds of spring. The name hyacinth comes from the Greek name Hyåkinthos. According to Greek legend, Hyåkinthos was admired by both Apollo and Zypherus. Hyåkinthos ended up being killed out of jealousy and a flower bloomed on the spot where his blood was spilled. Apollo named the flower after his lost love.",
+        "diseases":"Slugs",
+        "gardenUse":"Common hyacinth (Hyacinthus orientalis) is grown ornamentally for its showy and fragrant flowers that appear in winter or early spring. This much-needed color is a welcome addition to beds, borders, containers, and rock gardens; placed close to walkways and patios if possible to appreciate the scent. The plant has a particularly strong visual appeal when planted in clusters of five or more. Primroses, tulips, and amarylis all make great color and esthetic contrasts to this plant.",
+        "species":"Hyacinths",
+        "known":[
+            "Dutch hyacint",
+            "Wild hyacinth"
+        ],
+        "botanical":"Hyacinthus orientalis"
+    },
+    {
+        "id":"6",
+        "image":"https://www.gardenia.net/storage/app/public/uploads/images/detail/11787640_sOptimized.jpg",
+        "name":"Common sunflower",
+        "careGuide":{
+            "water":"Common sunflower requires infrequent but deep watering in order to help its roots grow. The key growth period is three weeks before and after flowering; at this time the plant should be watered weekly until the topsoil is moist.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, summer",
+            "propagation":"Sowing",
+            "harvestTime":"Summer, autumn",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"1 m to 3 m",
+            "spread":"30 cm to 1 m",
+            "size":"Inflorescence 10 cm to 30 cm",
+            "habitat":"Plains",
+            "flower":" Yellow , Orange , Black , Red , Purple , Brown , Bronze",
+            "leaf ":"Green",
+            "fruit":"Black",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Common sunflower is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-34 °C",
+            "hardinessZones":"4-8",
+            "soil":"Adaptable; well drained; slightly alkaline, neutral"
+        },
+        "description":"The common sunflower is recognizable for its bright flower on a very tall stem. It is often grown in gardens. These flowers have been important in culture: they were worshipped by the ancient Inca people, and today, they represent eco-friendly movements. The artist Vincent Van Gogh made a famous series of paintings about common sunflowers. Wild versions of the plant branch out to many flower heads, but domesticated plants typically only have one.",
+        "diseases":"Maladera orientalis, aphids, sclerotinia disease, rust disease, downy mildew, wilt disease, crown rot, leaf blight",
+        "gardenUse":"The bright and beautiful common sunflower is acommon annual in sunny home gardens. The tallstalks and large sunny blooms make it a beautiful backdrop to many other low-growing flowers in cottage and prairie/meadow gardens. Beans and squash are good veggies to grow with sunflowers, as they help balance the pH in the soil.",
+        "species":"Sunflowers",
+        "known":[
+            " Annual sunflower",
+            "Mirasol"
+        ],
+        "botanical":"Helianthus annuus"
+    },
+    {
+        "id":"7",
+        "image":"https://img.freepik.com/free-photo/purple-common-zinnia-zinnia-elegans-garden-with-space-putting-text-lowkey_49882-633.jpg?w=740",
+        "name":"Common zinnia",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"Spring, summer",
+            "propagation":"Sowing, Cutting",
+            "harvestTime":"Early autumn",
+            "pottingSuggestions":"Before planting elegant zinnia, apply compound fertilizer at the bottom of the pot, and perform root irrigation and disinfection after planting."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"15 cm to 1 m",
+            "spread":"30 cm to 60 cm",
+            "size":"Inflorescence 5 cm to 7 cm",
+            "habitat":"Disturbed sites",
+            "flower":"White , Yellow , Purple , Orange , Variegated",
+            "leaf ":"Green",
+            "fruit":"",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Common zinnia is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"1 °C",
+            "hardinessZones":"2-11",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The common zinnia is a popular garden plant. It thrives in relatively dry conditions with good airflow. Garden varieties come in many colors, usually having been hybridized from different wild varieties. Common zinnias are considered an allergy-safe pollen-producing flower.",
+        "diseases":"Grey mould, powdery mildew, leaf spot disease",
+        "gardenUse":"Common zinnia is most popularly planted in flowerbeds. Usually appreciated for its distinctively fluffy, bright blooms, it is also planted jn vegetable gardens to attract pollinators and thus increase yields. The varying heights, sizes, colors, and forms available can suit just about any type of garden. Common zinnia can look particularly striking next to Purple fountain grass, Dahlias, and Toothpick weed.",
+        "species":"Zinnias",
+        "known":[
+            "Youth-And-Old-Age",
+            " Youth-and-age"
+        ],
+        "botanical":" Zinnia elegans"
+    },
+    {
+        "id":"8",
+        "image":"https://www.gardenia.net/storage/app/public/uploads/images/detail/26568204_m.jpg",
+        "name":"Garden snapdragon",
+        "careGuide":{
+            "water":"Garden snapdragon requires around an inch of water per week, either from rainfall or supplementary watering. The soil needs to be damp but not waterlogged, so water before it dries out. The best method is to use a low-pressure drip or sprinkler system to water the soil around the plant",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Autumn, spring",
+            "propagation":"Sowing, Cutting",
+            "harvestTime":"Late summer, Early autumn, Mid autumn",
+            "pottingSuggestions":"Needs excellent drainage in pots"
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual, Perennial",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"20 cm to 1 m",
+            "spread":"10 cm to 50 cm",
+            "size":"1.5 cm to 5 cm",
+            "habitat":"Old walls, rocks and dry places",
+            "flower":"White , Purple , Yellow , Orange , Variegated",
+            "leaf ":"Green",
+            "fruit":"Red , Green , Black",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Growing Garden snapdragon is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun",
+            "hardiness":"-18 °C",
+            "hardinessZones":"8 -10",
+            "soil":"Sandy chalky, loam; well drained; neutral, slightly alkaline"
+        },
+        "description":"The garden snapdragon (Antirrhinum majus) is a flowering perennial that is commonly cultivated as an annual or biennial ornamental plant. When the throats of its flowers are squeezed together, its lips snap open like a dragon's mouth; this is the origin of the common name. The garden snapdragonjs speedy cultivation and ease of pollination made it a good target for research, so it has now become a model organism for plant genetics studies.",
+        "diseases":"Powdery mildew; aphids",
+        "gardenUse":"Garden snapdragon is most commonly clustered in flowerbeds and gardens. Popular for its bright, attractive flowers with their distinct dragon-snout shape, this plant is a mainstay in most traditional flower gardens and is used in patio containers, borders, and flower boxes. It is often planted with lower-growing flowers like lobelia and pansies for a satisfying height contrast.",
+        "species":"Snapdragons",
+        "known":[
+            "Dragon's mouth",
+            "Dragon plant"
+        ],
+        "botanical":" Antirrhinum majus"
+    },
+    {
+        "id":"9",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61BBLa-tdGL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name":"Johnny jump up",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, autumn, winter",
+            "propagation":"Sowing, Division",
+            "harvestTime":"Summer, Early autumn",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual",
+            "bloomTime":"Spring, autumn, winter",
+            "plantHeight":"10 cm to 40 cm",
+            "spread":"10 cm to 30 cm",
+            "size":"1.5 cm to 6 cm",
+            "habitat":"Cultivated and waste ground, short grassland",
+            "flower":"White , Purple , Cream , Yellow , Variegated",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Johnny jump up is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-46 °C",
+            "hardinessZones":"2-10",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The johnny jump up resembles a small pansy. The flowers are edible and can be consumed in salads, drinks, or used as a garnish, though they're best eaten only in small amounts. Ancient Greek legends told that the goddess Aphrodite colored the previously white flowers purple to make her son, Eros, less attracted to them.",
+        "diseases":"Powdery mildew, virus, brown spot, rust; slugs, snails, aphids, grass house red spider mite, purple flies",
+        "gardenUse":"Johnny jump up can be planted in flowerbeds or flower borders. Potted plants can decorate balconies and windowsills.",
+        "species":"Violets",
+        "known":[
+            "Wild pansy",
+            "Love-in-idleness"
+        ],
+        "botanical":"Viola tricolor"
+    }
+   
+]

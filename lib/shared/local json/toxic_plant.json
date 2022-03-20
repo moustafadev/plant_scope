@@ -1,0 +1,346 @@
+[
+    {
+        "id":"1",
+        "image":"https://www.thespruce.com/thmb/3rYu3S4Rm8jhClqOfRyeCEPekc8=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-milk-tree-profile-4846360-hero-35341f159a5f4ce891a4d79b29b0aec0.jpg",
+        "name":"African milk tree",
+        "careGuide":{
+            "water":"African milk tree hates wet soil so it should never be overwatered. If grown in a pot make sure that it has plenty of drainage holes. Mix soil with sand to assist drainage. In the growing season, the soil should be kept just damp. Water when the soil dries out.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"Spring, Summer, Autumn",
+            "propagation":"Cutting",
+            "harvestTime":"Late spring, Late winter",
+            "pottingSuggestions":"Needs excellent drainage in pots. Repotted once a year in the spring."
+        },
+        "characteristics":{
+            "plantType":"Tree, Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"91 cm to 1.8 m",
+            "spread":"20 cm",
+            "size":"",
+            "habitat":"Human-made habitats, tropical dry forests, disturbed sites, waste areas, roadsides, dry and semiarid environments, moist and dry deciduous forests",
+            "flower":"Red Purple Orange",
+            "leaf ":"Red Pink",
+            "fruit":"Green",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"9 - 11",
+            "soil":"Gritty sand"
+        },
+        "description":"African milk tree (Euphorbia trigona) is a perennial species from Central Africa. African milk tree grows best in sandy soils and can root easily from cuttings. This species produces latex that can be a skin irritant. It is often planted as a houseplant and is used as a ritual plant in Gabon.",
+        "diseases":"Stem rot",
+        "gardenUse":"African milk tree is frequently used as a houseplant for its tall and dramatic shape. In cooler climates, it is necessary to grow it indoors. In warmer areas, it is sometimes used in gardens as a statement or specimen plant, because it can grow as tall as a tree. Cacti, poinsettias, and other succulents make good companions in a desert garden.",
+        "species":"Spurges",
+        "known":[
+            "Cathedral cactus",
+            "Abyssinian euphorbia"
+        ],
+        "botanical":"Euphorbia trigona"
+    },
+    {
+        "id":"2",
+        "image":"https://statics.rayagarden.com/20210119/Asian-Virginsbower-1.jpg",
+        "name":"Asian virginsbower",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Sowing, Layering",
+            "harvestTime":"",
+            "pottingSuggestions":"Wooden or ceramic pots are recommended for the potted Asian virginsbower."
+        },
+        "characteristics":{
+            "plantType":"Herb, Vine",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"2 m to 3 m",
+            "spread":"1 m to 2m",
+            "size":"3 cm to 12 cm",
+            "habitat":"Disturbed areas",
+            "flower":"Purple White Pink",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Growing Asian virginsbower is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"-18 °C",
+            "hardiness":"7 - 11",
+            "hardinessZones":"",
+            "soil":"Sand, chalky, loam; well drained; neutral, slightly alkaline"
+        },
+        "description":"The asian virginsbower is one species of garden clematis that has generated some incredible beautiful varieties. It is a deciduous vine that produces creamy white to purple flowers according to varieties and blooms in early summer on shoots that developed from the previous year's growth.",
+        "diseases":"Clematis wit; aphids, bryozoans",
+        "gardenUse":"well in rock, naturalized, and European gardens. They are often seen in garden beds with fall blooming flowers. Used to add a graceful, climbing pop of color, they grow vigorously, covering walls, pergolas, fences, and other structures. They are often planted with strong trees because their vines will grow across and drape over the branches.",
+        "species":"Clematis",
+        "known":[
+            "Clematis",
+            "Passion Flower Clematis"
+        ],
+        "botanical":"Clematis florida"
+    },
+    {
+        "id":"3",
+        "image":"https://www.thespruce.com/thmb/zY76TJBjrViMIo07hwAgVw3a4n0=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-and-care-for-columbines-1402831_02-5b8c08ca0a114dc6b92d99f89b01b0be.jpg",
+        "name":"Common columbine",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, summer, autumn",
+            "propagation":"Sowing, Division",
+            "harvestTime":"Mid summer, Late summer",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring, summer",
+            "plantHeight":"30 cm to 1.2 m",
+            "spread":"30 cm",
+            "size":"3 cm to 5 cm",
+            "habitat":"Moist shady positions, fenland peat",
+            "flower":"White Blue Red Purple Pink",
+            "leaf ":"Blue Green",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-34 °C",
+            "hardinessZones":"3-9",
+            "soil":"Sand, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The common columbine is a tall, flowering plant, typically with a long stem and light purple flowers. The Latin specific name for the plant, vulgaris, means common, and it comes from the fact that the plants spread easily and grow in many places around Europe. Ancient Romans considered the common columbine to be sacred for the goddess, Venus.",
+        "diseases":"Powdery mildew, downy mildew; aphids, leaf mining flies, subfamilies, pitworms",
+        "gardenUse":"Common columbine is a popular perennial garden flower grown for its array of colors and lovely clump- forming habit. Naturalistic and pollinator-friendly gardens particularly benefit from the common columbine, which also makes a lovely specimen piece. They can be used in beds, borders, or even patios. Grow them together with lightly colored plants such as ferns and tiarella to enhance their color!",
+        "species":"Columbines",
+        "known":[
+            "Granny's bonnet",
+            "European columbine"
+        ],
+        "botanical":" Aquilegia vulgaris"
+    },
+    {
+        "id":"4",
+        "image":"https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2021/09/croton-plant-care_1.jpg",
+        "name":"Garden croton",
+        "careGuide":{
+            "water":"The garden croton's soil should be kept slightly moist at all times during the growing season between spring and summer. Then, during the dormant season between fall and winter, the soil should be kept slightly drier without drying out completely for long periods of time. Water for garden croton should be filtered or stagnant tap water to avoid raising the pH of the soil with chemicals.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Division, Cutting",
+            "harvestTime":"Early autumn",
+            "pottingSuggestions":"Needs excellent drainage in pots. When grown too large for the pot, it should be repotted and replanted"
+        },
+        "characteristics":{
+            "plantType":"Shrub",
+            "lifespan":"Perennial",
+            "bloomTime":"Autumn",
+            "plantHeight":"1 m to 3 m",
+            "spread":"1 m",
+            "size":"5 mm to 1.5 cm",
+            "habitat":"Forests, scrub",
+            "flower":"White Yellow Pink ",
+            "leaf ":"Green",
+            "fruit":"",
+            "stem":"Green Brown"
+        },
+        "conditions":{
+            "difficulty":"Garden croton is not difficult to take care of. With proper care, your Garden croton will grow well under certain environments.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"10 - 13",
+            "soil":"Loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The garden croton is a showy tropical display that does well indoors or in warm climates. Known for its attractive foliage, this plant can have both to color and structural variations in its leaves. Leaf colors can include orange, yellow, scarlet, white, and green, and many times all are present on one plant.",
+        "diseases":"Scale insect, grass house red spider mite",
+        "gardenUse":"Garden croton is an evergreen woody shrub commonly found in tropical gardens. It is prized for its colorful foliage and interesting leaf formations. Its large leaves and shape make it suitable for landscape hedges and borders. Garden croton is appropriate for tropical-style ornamental gardens. Suggested companion plants include Coleus or Lantana to make color contrasts.",
+        "species":"Codiaeum",
+        "known":[
+            "Variegated croton",
+            ""
+        ],
+        "botanical":"Codiaeum variegatum"
+    },
+    {
+        "id":"5",
+        "image":"https://i.pinimg.com/564x/88/1a/d2/881ad2aa23f86c5846f9331ef420a310.jpg",
+        "name":"Devil's-backbone",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Early spring, Mid spring, Early summer, Mid summer",
+            "propagation":"Sowing, Cutting",
+            "harvestTime":"Mid spring, Late spring, Early summer",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring, Winter",
+            "plantHeight":"1.8 m to 2.5 m",
+            "spread":"46 cm to 61 cm",
+            "size":"2.5 cm",
+            "habitat":"Outdoor garden, landfills, toxic waste sites, roadsides",
+            "flower":"Red",
+            "leaf ":"White Green",
+            "fruit":"Red",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Growing Devil's-backbone is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-4 °C",
+            "hardinessZones":"9 - 11",
+            "soil":"Sand; well drained"
+        },
+        "description":"Devil's-backbone (Euphorbia tithymaloides) is a succulent species of spurge native to North and Central America. It has been planted in gardens since the 17th century and valued for its unique appearance and its habit of attracting hummingbirds. However, nearly all parts of this species are toxic and should not be consumed.",
+        "diseases":"Stem rot",
+        "gardenUse":"Devil's-backbone is mostly commonly used as a border plant, or as a hedge. It can also do well in containers. Some people plant it because as a bioaccumulator: it can draw toxins and heavy metals out of soils. Plant with Aloe, Crown of thorns, or Kalanchoe.",
+        "species":"Spurges",
+        "known":[
+            "Zig-zag plant",
+            "Buck-thorn"
+        ],
+        "botanical":"Euphorbia tithymaloides"
+    },
+    {
+        "id":"6",
+        "image":"https://www.bolster.eu/media/images/5270_dbweb5.jpg?1549350221",
+        "name":"Doubtful knight's spur",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Division, Cutting, Sowing",
+            "harvestTime":"Winter, Early spring",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual",
+            "bloomTime":"Summer",
+            "plantHeight":"60 cm to 1.2 m",
+            "spread":"30 cm to 60 cm",
+            "size":"5 cm",
+            "habitat":"Corn fields",
+            "flower":"White Purple Pink Blue",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-12 °C",
+            "hardinessZones":"2-11",
+            "soil":"Sand, chalky, loam; well drained; neutral, slightly alkaline"
+        },
+        "description":"Doubtful knight's spur is a native of Eurasia but is widely grown in the United States as an ornamental. Doubtful knight's spur is known for its tall spikes of blooms in blue, pink, or white. This plant is considered poisonous due to specific types of alkaloids found in the aerial parts and the seeds.",
+        "diseases":"",
+        "gardenUse":"Rising on long stems, the brushes of blue flowers of doubtful knightls spur (Consolida ajacis) are a popular feature of many ornamental gardens. These summer flowers look great grouped in beds and borders when combined with other red, pink, and white summer flowers. Doubtful knightls spur is a great choice for cottage gardens, growing particularly well with garden phlox, Queen Anne's lace, and rusty foxglove.",
+        "species":"Larkspurs",
+        "known":[
+            " Rocket larkspur",
+            " Eastern larkspur"
+        ],
+        "botanical":"Consolida ajacis"
+    },
+    {
+        "id":"7",
+        "image":"https://pics.davesgarden.com/pics/2016/10/09/palmbob/5d2588.jpg",
+        "name":"Mottled spurge",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"All year around",
+            "propagation":"Grafting",
+            "harvestTime":"All year around",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Tree, Shrub",
+            "lifespan":"Perennial",
+            "bloomTime":"All year around",
+            "plantHeight":"61 cm to 4.5 m",
+            "spread":"61 cm to 1.5 m",
+            "size":"2.5 cm",
+            "habitat":"Dry regions, tropical and sub-tropical areas",
+            "flower":"Red Purple Pink",
+            "leaf ":"Green",
+            "fruit":"",
+            "stem":"Black"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"10-12",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Mottled spurge (Euphorbia lactea) is a spurge species native to tropical Asia, particularly in India. Mottled spurge is commonly planted as an ornamental species in tropical regions and grown as a houseplant in temperate regions. This species is also commonly known as dragon bones and is highly toxic if consumed.",
+        "diseases":"Fungal diseases;",
+        "gardenUse":"Mottled spurge is a popular deciduous shrub prized for its hardiness and close resemblance to a succulent. It is commonly used as an ornamental plant and is essential in rock and desert gardens. Plant it with bulbine and other succulents with similar watering requirements in the background for contrasting texture and color",
+        "species":"Spurges",
+        "known":[
+            "Candelabra plant",
+            "Dragon bones"
+        ],
+        "botanical":"Euphorbia lactea"
+    },
+    {
+        "id":"8",
+        "image":"https://www.thespruce.com/thmb/AyQkYWwxHYgJh01KHymNYraugPA=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/oregon-grape-profile-3269178-hero-1729f43774344204bc84d6be1f16dd3a.jpg",
+        "name":"Oregon grape",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once in sprina.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Autumn, winter, spring",
+            "propagation":"Sowing, Cutting",
+            "harvestTime":"Summer",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Shrub",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"1 m",
+            "spread":"1.5 m",
+            "size":"Flower 76 cm",
+            "habitat":"Woods",
+            "flower":"Yellow Purple",
+            "leaf ":"Green",
+            "fruit":"Blue",
+            "stem":"Brown Bronze Gray Silver"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-29 °C",
+            "hardinessZones":"4-8",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Oregon grape originates in western North America and flowers in early spring. The bark of the oregon grape can be used to make a yellow dye, while the berries create a purple dye.",
+        "diseases":"Powdery mildew",
+        "gardenUse":"Oregon grape (Berberis aquifolium) is a dense and bushy evergreen shrub with plenty of garden popularity. The holly-like leaves are attractive, as are the yellow flowers and pale blue berries, which attract plenty of birdlife to gardens. The plant is most attractive when grown in clusters, although it also grows well in combination with wild ginger, fleabane, and larkspur, in shade and woodland gardens.",
+        "species":"Barberries",
+        "known":[
+            "Tall oregon grape",
+            "Hollyleaved barberry"
+        ],
+        "botanical":"Berberis aquifolium"
+    }
+]

@@ -1,0 +1,475 @@
+[
+    {
+        "id":"1",
+        "image":"https://www.thespruce.com/thmb/pdX5mpNXTVRJYZx_vtPeX5nCQ_8=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/indeterminate-tomato-variety-1403423-01-bf3ec05de4754840abbd8dc26514bee7.jpg",
+        "name":"Tomato ",
+        "careGuide":{
+            "water":"The tomato should be watered very often in the active growing season during the late spring and summer months. Depending on how much sunlight and heat they receive, it is advisible to water these plants at most daily or at least twice weekly. The soil should be kept consistently moist without becoming wet or soggy.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring, winter",
+            "propagation":"Sowing",
+            "harvestTime":"Summer, autumn",
+            "pottingSuggestions":"Needs excellent drainage in pots"
+        },
+        "characteristics":{
+            "plantType":"HerbAnnual, Perennial",
+            "lifespan":"Annual, Perennial",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"1 m to 3 m",
+            "spread":"1.5m",
+            "size":"2 cm to 2.5 cm",
+            "habitat":"Yards, gardens, farms",
+            "flower":"Yellow",
+            "leaf ":"Green",
+            "fruit":"Red",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"tomato is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"2-10",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral"
+        },
+        "description":"Solanum lycopersicum is an annual or perennial herbaceous vine native to Central and South America that produces a large, juicy, edible fruit known as tomato. Today there are over 10000 cultivated varieties. Although tomato is the world's most popular vegetable, botanically it is a fruit.",
+        "diseases":"Whiteflies, cotton bollworms, aphids, tomato brake leaf virus, stripe virus, mosaic disease, leaf mold, late blight, grey mold, early blight, anthracnose, leaf spot, colorado potato beetles, leaf miners",
+        "gardenUse":"The common tomato can be found in vegetable gardens across the world. Able to be grown in almost any space, the tomato is considered a staple in home food gardens and is usually the one of the first plants suggested to new vegetable gardeners, though it can be a bit tricky. Basil, parsley, and garlic are suggested companion plants.",
+        "species":"Nightshades",
+        "known":[
+            "Tomato plant",
+            "Garden tomato"
+        ],
+        "botanical":"Solanum lycopersicum"
+    },
+    {
+        "id":"2",
+        "image":"https://cherryblossomlife.com/wp-content/uploads/2019/07/how-to-plant-carrots.jpg",
+        "name":"Carrot",
+        "careGuide":{
+            "water":"",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"",
+            "propagation":"",
+            "harvestTime":"",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Biennial",
+            "bloomTime":"Summer",
+            "plantHeight":"8 cm to 91 cm",
+            "spread":"5 cm to 8 cm",
+            "size":" 8 cm to 15 cm",
+            "habitat":"",
+            "flower":"White",
+            "leaf ":"Green",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"",
+            "hardiness":"",
+            "hardinessZones":"3-10",
+            "soil":""
+        },
+        "description":"Carrot (Daucus carota subsp. sativus) is the domestic version of its wild relative. This ubiquitous vegetable is closely related to parsley, fennel, and dill. The orange root can be eaten cooked or raw. The carrot is self-fertile and is pollinated by flies and beetles, who use its flowers as a food source.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Carrots",
+        "known":[
+            "Garden carrot",
+            "Carrot Flower"
+        ],
+        "botanical":"Daucus carota subsp. sativus"
+    },
+    {
+        "id":"3",
+        "image":"https://www.aces.edu/wp-content/uploads/2018/08/Conservation-Tillage-shutterstock_1106961482.jpg-By-Sopha-Changaroon.jpg",
+        "name":"Lettuces",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"Spring, Autumn",
+            "propagation":"Sowing",
+            "harvestTime":"Late summer, Early autumn",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual, Biennial,Perennial",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"15 cm to 1 m",
+            "spread":"15 cm to 30 cm",
+            "size":"7 mm to 1.5 cm",
+            "habitat":"Rich, well-drained soil",
+            "flower":"",
+            "leaf ":"White , Yellow , Purple , Green , Red , Gold , Variegated",
+            "fruit":"Brown , Bronze",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-46 °C",
+            "hardinessZones":"3-7",
+            "soil":"Sand, loam; well drained; neutral, slightly alkaline"
+        },
+        "description":"Garden lettuce (Lactuca sativa) is a hardy annual plant commonly cultivated as a leafy vegetable. The earliest evidence of its cultivation goes all the way back to Ancient Egypt. Its leaves are often used for making salads and they are an excellent source of vitamins K and A.",
+        "diseases":"Virus, downy mildew, powdery mildew, gray mold; cutworms, wireworms, nematodes, aphids, leafhoppers",
+        "gardenUse":"Garden lettuce (Lactuca sativa) is one of the world's most popular salad plants and has been a mainstay of vegetable gardens since the time of the ancient Egyptians. The plant doesn't really have great aesthetic appeal so it is grown purely for its edible leaves. It grows well in vegetable gardens with peas, peppers, onions, and tomatoes.",
+        "species":"Lettuces",
+        "known":[
+            "Romaine lettuce",
+            "Celtuce"
+        ],
+        "botanical":"Lactuca sativa"
+    },
+    {
+        "id":"4",
+        "image":"https://www.ukrgate.com/eng/wp-content/uploads/2021/04/Growing-Cabbage-Without-Seedlings1.jpg",
+        "name":"Cabbage",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Sowing",
+            "harvestTime":"",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Biennial",
+            "bloomTime":"Spring",
+            "plantHeight":"30 cm to 61 cm",
+            "spread":"38 cm to 46 cm",
+            "size":"2 cm to 2.5 cm",
+            "habitat":"Cultivated land",
+            "flower":"Yellow",
+            "leaf ":"",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Cabbage is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-34 °C",
+            "hardinessZones":"4-9",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"A member of the brassica family, cabbage grows well in cool weather and full sun. It can be eaten raw, shredded in salads, or in SOUP, and is fermented to make sauerkraut.",
+        "diseases":"Aphids, clubroot, downy mildew, leaf spot",
+        "gardenUse":"",
+        "species":"Cabbages",
+        "known":[
+            "Head cabbage",
+            "Oxheart cabbage"
+        ],
+        "botanical":"Brassica oleracea var. capitata"
+    },
+    {
+        "id":"5",
+        "image":"https://i.pinimg.com/564x/3e/63/e1/3e63e1cd5cd9a47b6fc0a57049480766.jpg",
+        "name":"Cauliflower",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month",
+            "plantingTime":"Spring, summer",
+            "propagation":"Sowing",
+            "harvestTime":"Mid summer, Late summer, Early autumn",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"60 cm to 90 cm",
+            "spread":"60 cm",
+            "size":"",
+            "habitat":"Cultivated land",
+            "flower":"White , Yellow , Green",
+            "leaf ":"",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Cauliflower is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-9 °C",
+            "hardinessZones":"8-11",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Cauliflower (Brassica oleracea var. botrytis) has been a common cool-season vegetable since Greek and Roman times. The large head is usually white, but purple, green, and orange cultivars are available.Cauliflower is a valuable source of vitamins B, C, and K. It is a popular alternative to rice and potatoes in low-carbohydrate diets.",
+        "diseases":"Aphids, clubroot, downy mildew, leaf spot",
+        "gardenUse":"",
+        "species":"Cabbages",
+        "known":[
+            "Heading broccoli",
+            "Winter cauliflower"
+        ],
+        "botanical":"Brassica oleracea var. botrytis"
+    },
+    {
+        "id":"6",
+        "image":"https://tuigarden.co.nz/media/3206/cucumber_growing_guide.png",
+        "name":"Cucumbers",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"Spring",
+            "propagation":"Sowing",
+            "harvestTime":"Summer",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":" Herb, Vine",
+            "lifespan":" Annual",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"20 cm to 90 cm",
+            "spread":"91 cm to 2.5 m",
+            "size":"2.5 cm",
+            "habitat":"Vegetable , garden",
+            "flower":"Yellow",
+            "leaf ":"Green",
+            "fruit":"Yellow , Green",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Cucumbers is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"4-8",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Cucumbers (Cucumjs sativus) is a creeping vine native to South Asia. It has a long history of cultivation - mentions of its use are found in various ancient scripts, including the Bible, Epic of Gilgamesh and Pliny the Elder's Natural History. Today, cucumbers is one of the most widely cultivated vegetable species in the world.",
+        "diseases":"Powdery mildew, downy mildew, fungal infestation; aphids, caterpillars, red spider mites, whiteflies,thrips",
+        "gardenUse":"An absolute essential in veggie gardens, the cucumbers is one of the most commonly grown garden vegetables around the world. Its ease of care makes it widely valued by gardeners. Cucumbers plants will benefit from being grown with corn or sunflowers, which act as natural trellises. You can also plant them with marigolds to help repel bugs.",
+        "species":"Melon",
+        "known":[
+            "Immature Cucumber",
+            "Gherkins"
+        ],
+        "botanical":"Cucumis sativus"
+    },
+    {
+        "id":"7",
+        "image":"https://cdn.britannica.com/36/167236-050-BF90337E/Ears-corn.jpg",
+        "name":" Maize",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"Early spring",
+            "propagation":"Sowing",
+            "harvestTime":"Late summer, Early autumn",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Annual",
+            "bloomTime":" Summer, autumn",
+            "plantHeight":"1 m to 4 m",
+            "spread":"30 cm to 61 cm",
+            "size":"Inflorescence 10 cm to 25 cm",
+            "habitat":"Cultivated Beds",
+            "flower":"Yellow",
+            "leaf ":"Variegated",
+            "fruit":"Yellow",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-18  °C",
+            "hardinessZones":"9-12",
+            "soil":"Clay, loam, sand; well drained; slightly acidic,neutral"
+        },
+        "description":"Maize (Zea mays) is a well known domesticated cereal grain first domesticated in Mexico. In much of the world it is also called corn. Worldwide cultivation of maize surpasses other prominent grains like wheat and rice. Maize must be planted in the spring due to its intolerance for cold weather.",
+        "diseases":"Leaf blotch; slugs",
+        "gardenUse":"While maize is used almost exclusively as an agricultural food crop, some colorful varieties can be grown in a domestic garden. Gardeners who cultivate these are primarily keeping them for their attractive colors and shapes. Companion plants are often other food crops, like Pumpkin, Basil, or Dill; these can be grown among corn to repel pests and fill in spaces jn the garden.",
+        "species":"Corn",
+        "known":[
+            "Indian corn",
+            "Flint corn"
+        ],
+        "botanical":"Zea mays"
+    },
+    {
+        "id":"8",
+        "image":"https://www.thespruce.com/thmb/T9JAJc1f7ckUQNKHhiU_ETQuQs8=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/companion-plants-for-garlic-2540042-01-e17e8252f0b14fd1846e788fa2526c2e.jpg",
+        "name":"Garlic",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3cm of soil has dried out.",
+            "fertilization":"Fertilization once every 2-3 months during thegrowing season.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"All year around",
+            "propagation":"sowing",
+            "harvestTime":"Late spring, Early summer",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":" Summer",
+            "plantHeight":"1 m",
+            "spread":" 23 cm to 30 cm",
+            "size":"",
+            "habitat":"Cultivated Beds",
+            "flower":"White , Green , Pink",
+            "leaf ":"Green , Gray  , Silver",
+            "fruit":"Brown , Bronze , Cream",
+            "stem":"Cream"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-18 °C",
+            "hardinessZones":"5-9",
+            "soil":"Sand, clay, chalky; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Garlic (Allium sativum) is an extremely popular garden plant because of its use for flavoring dishes, as well as its ease of care and growth. It is traditionally planted in autumn and harvested in mid- summer. This plant is also called the stinking rose, and it is useful as an insect repellent in gardens. Garlic is important to Korean creation myths, and is believed to ward off vampires and other spirits in European folklore.",
+        "diseases":"Downy mildew, onion white rot; slugs, snails",
+        "gardenUse":"",
+        "species":"Onions",
+        "known":[
+            "Poormanis treacle",
+            "Clownis treacle"
+        ],
+        "botanical":"Allium sativum"
+    },
+    {
+        "id":"9",
+        "image":"https://cdn.britannica.com/19/231119-050-35483892/Indian-ginger-Zingiber-officinale.jpg",
+        "name":"Ginger",
+        "careGuide":{
+            "water":"",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"Early spring",
+            "propagation":"",
+            "harvestTime":"Late summer, Early autumn, Mid autumn",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"50 cm to 1 m",
+            "spread":"61 cm to 1.2 m",
+            "size":"Inflorescence 4 cm to 5 cm",
+            "habitat":"Moist tropical and subtropical forests",
+            "flower":"Red , Purple , Pink",
+            "leaf ":"Green",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"",
+            "hardiness":"",
+            "hardinessZones":"8-10",
+            "soil":""
+        },
+        "description":"Ginger (Zingiber officinale) is an edible, herbaceous perennial species native to Southest Asia. The root is used commonly throughout the world as a spice and flavoring. This species is related to turmeric and cardamom. Ginger has been cultivated for centuries; it was used in ancient Greece and Rome and was important to the historical spice trade.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Ginger",
+        "known":[
+            "East Indian Ginger",
+            "Canton Ginger"
+        ],
+        "botanical":"Zingiber officinale"
+    },
+    {
+        "id":"10",
+        "image":"https://cdn.wikifarmer.com/wp-content/uploads/2019/05/Growing-Eggplants-in-your-Backyard.jpg",
+        "name":"Eggplant",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Early spring",
+            "propagation":"Sowing, Grafting",
+            "harvestTime":"Spring, Summer, Autumn, Early winter, Mid winter",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb, Shrub",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"1 m",
+            "spread":"30 cm",
+            "size":"3 cm to 4 cm",
+            "habitat":"Cultivated Beds",
+            "flower":"Purple , Pink",
+            "leaf ":"Green",
+            "fruit":"Purple , Green , White , Variegated , Black",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"2-12",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Eggplant (Solanum melongena) is a plant species related to nightshade and native to India. Eggplant is grown worldwide for its edible purple fruit. The spongey and absorbent fruit is a staple in Eastern cuisines. This plant is known as brinjal. in South Africa and Asia, while Britains call it aubergine.",
+        "diseases":"Powdery mildew, downy mildew, fungal infection; aphids, caterpillars, red spider mites, thrips, whiteflies",
+        "gardenUse":"Eggplant is a popular addition to many vegetable gardens, given the myriad culinary options for preparing the mature fruit. It couples well with tomatoes and others from the nightshade family, but gardeners should be sure to rotate planting with non-solanaceous crops.",
+        "species":"Nightshades",
+        "known":[
+            "Aubergine",
+            "Berendjena"
+        ],
+        "botanical":"Solanum melongena"
+    },
+    {
+        "id":"11",
+        "image":"https://www.kellogggarden.com/wp-content/uploads/2020/03/onion-growing-from-ground-.jpg",
+        "name":"Onion",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once every half month during the growing season.",
+            "pruning":"Trim the dead, diseased, overgrown branchesin winter.",
+            "plantingTime":"Spring",
+            "propagation":"Sowing",
+            "harvestTime":"Summer",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"1 5 cm to 45 cm",
+            "spread":"15 cm to 30 cm",
+            "size":"2.5 cm",
+            "habitat":"Cultivated Beds",
+            "flower":"White , Yellow",
+            "leaf ":" Green",
+            "fruit":"Brown , Black",
+            "stem":" White , Green , Brown"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-29 °C",
+            "hardinessZones":"4-7",
+            "soil":"Sand, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Onion (Allium cepa) is an onion species commonly known for its ubiquitous culinary applications. The onion is toxic to a variety of animals. Aside from its many culinary uses, the onion is often used to teach students how to use a microscope because its cells are very large and easy to visualize.",
+        "diseases":"White rot, rust, smut, downy mildew, white tip disease; onion fly, leek moth, onion leaf miner",
+        "gardenUse":"Onion is an easy-care onion variety that finds a popular place in many vegetable gardens. Its pretty tall-stalked flowers also bring eye-catching color to ornamental gardens. The flowers will attract bees, and they are lovely when cut for a vase. Leave room for natural propagation, but they pair well with wild grasses.",
+        "species":"Onions",
+        "known":[
+            "Shallot",
+            "Edible Onion"
+        ],
+        "botanical":"Allium cepa"
+    }
+]

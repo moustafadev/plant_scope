@@ -1,0 +1,390 @@
+[
+    {
+        "id":"1",
+        "image":"https://images.fineartamerica.com/images-medium-large/avenue-with-black-poplar-trees-in-autumn-matthias-hauser.jpg",
+        "name":"Black poplar",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winten",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Sowing, Cutting, Layering",
+            "harvestTime": "",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"20 m to 40 m",
+            "spread":"3 m to 3.5 m",
+            "size":"Male inflorescence 5 cm to 6 cm long",
+            "habitat":"Moist ground in woods and by streams",
+            "flower":"Yellow , Green",
+            "leaf ":"Green",
+            "fruit":"",
+            "stem":"Yellow , Green , Brown"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-29 °C",
+            "hardinessZones":"4-10",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Black poplar (Populus nigra) is a medium- to large- sized deciduous tree which can be naturally found in many alluvial European forests. It is a fast-growing tree, with a wide crown which is a common nesting place for different species of birds. Due to the degradation of its natural habitat, black poplar has become an endangered species in certain areas.",
+        "diseases":"Poplar bacterial canker, tree rusts, plus honey fungus, silver leaf; leaf beetles, sawflies, caterpillars",
+        "gardenUse":"Black poplar is quite rare, particularly when it comes to the garden. The tree is very susceptible to disease and weather damage, making it rather unappealing, difficult to care for, and a litterer, infamous for covering lawns with debris. The black poplar can be used as protection from the wind, however, and provides some shade. It also has some ornamental appeal when planted in rows,though it doesn't generally do well with other plants.",
+        "species":"Poplars",
+        "known":[
+            "Lombardy poplar",
+            " Pyramidal poplar"
+        ],
+        "botanical":"Populus nigra"
+    },
+    {
+        "id":"2",
+        "image":"https://sites.redlands.edu/globalassets/sites/trees/species-accounts/2019-eeb238/cherry-plum/flower1.jpg",
+        "name":"Cherry plum",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Sowing, Cutting, Division, Layering, Grafting",
+            "harvestTime": "",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"8 m to 12m",
+            "spread":"9 m",
+            "size":"2 cm to 2.5 cm",
+            "habitat":"roadsides, stream banks, canyons, chaparral",
+            "flower":"Pink",
+            "leaf ":"Red , Purple , Green , Black",
+            "fruit":"Yellow , Red , Orange , Purple",
+            "stem":"Red , Brown"
+        },
+        "conditions":{
+            "difficulty":"Cherry plum is super easy to take care of,with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-34 °C",
+            "hardinessZones":"5-9",
+            "soil":"Chalky, loam, clay, sand; well drained;slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Cherry plum ( Prunus cerasifera ) is a deciduous small tree or a shrub native to Southern Europe and Western Asia. It is one of the most common wild fruits of its native region, producing numerous, rounded, yellow, red, or burgundy-colored, sweet, juicy fruit in summer and autumn. Cherry plum is also used as an ornamental tree, and as rootstock for other Prunus species.",
+        "diseases":"Brown spot, anthracnose",
+        "gardenUse":"As one of the earliest flowering trees in Europe,cherry plum has found its way into gardens across the northern hemisphere (though it is mildly invasive in parts of Asia). Growers of the cherry plum prize its variety of foliage and flower colors, as well as the early bloom time. These trees are frequently used as specimen pieces, tree borders, and even occasionally as 'living sculptures.' It works well in cottage, city, and Japanese gardens, particularly when planted alongside herbs like mint, rosemary,and sage .",
+        "species":"Prunus",
+        "known":[
+            "Myrobalan plum",
+            "Purple leaf plum"
+        ],
+        "botanical":"Prunus cerasifera"
+    },
+    {
+        "id":"3",
+        "image":"https://i.guim.co.uk/img/media/620a2dbf6cae71a3c5857d954a71b5e94a01b5b1/0_106_4210_2527/master/4210.jpg?width=620&quality=85&auto=format&fit=max&s=9e79af94ee09417bce15d1e6cd654491",
+        "name":"Coast redwood",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Autumn, winter, spring",
+            "propagation":"Sowing, Cutting",
+            "harvestTime": "",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"",
+            "plantHeight":"115m",
+            "spread":"4 m to 8 m",
+            "size":"2.5 cm",
+            "habitat":"Flat land, slopes in the coastal fog belt",
+            "flower":"Yellow",
+            "leaf ":"Green",
+            "fruit":"Brown",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-12 °C",
+            "hardinessZones":"7-10",
+            "soil":"Clay, loam; well drained; neutral"
+        },
+        "description":"Coast redwood (Sequoia sempervirens) is a tree species native to the United States. Coast redwood is also called the California redwood. This species is one of the tallest trees on Earth. The coast redwood is one of the oldest living organisms.",
+        "diseases":"",
+        "gardenUse":"Coast redwood is a popular tree prized for its red trunk and green needles. It is used as a decorative plant in yards and is an essential tree in evergreen forest gardens. Plant it with hostas and ferns for texture and color at the base.",
+        "species":"Redwoods",
+        "known":[
+            "California redwood",
+            "Humboldt redwood"
+        ],
+        "botanical":"Sequoia sempervirens"
+    },
+    {
+        "id":"4",
+        "image":"https://www.thespruce.com/thmb/GQPYDVgXz2-b27H0WHIuAsJowqk=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/deodar-cedar-growing-profile-3269261-hero-e70ba08c3eba4cb6b24e621b879848f1.JPG",
+        "name":"Deodar cedar",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, Autumn",
+            "propagation":"Cutting, Sowing",
+            "harvestTime": "",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Autumn",
+            "plantHeight":"30m",
+            "spread":"3 m",
+            "size":"5 mm",
+            "habitat":"Drier areas of the Himalayas",
+            "flower":"Gold",
+            "leaf ":"Yellow",
+            "fruit":"Blue",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-18 °C",
+            "hardinessZones":"3-9",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"The deodar cedar is the national tree Pakistan and among Hindus it is worshipped as a divine tree. Difficult meditation practices by sages are often done in forests of deodar cedar as a tribute to the Hindu god Shiva. The wood of deodar cedar is also frequently used as a building material because it is resistant to rot, has a close grain, and is very durable.",
+        "diseases":"Honey fungus; aphids",
+        "gardenUse":"Deodar cedar works superbly as a specimen planting, in ornamental clusters, or when planted as street trees. Home landscapers who use them for hedging will enjoy the low-maintenance care of this species, and plenty of shade as the trees grow. They combine well with Magnolia and Crape myrtle.",
+        "species":"Cedars",
+        "known":[
+            "Himalayan cedar",
+            "Indian cedar"
+        ],
+        "botanical":"Cedrus deodara"
+    },
+    {
+        "id":"5",
+        "image":"https://www.thespruce.com/thmb/LiTr0xzZW93-RZPFSRs6OA7-3jw=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/growing-golden-larch-trees-5083014-hero-fc3db44247ed414b99a90a6e9458ccc7.jpg",
+        "name":"Golden larch",
+        "careGuide":{
+            "water":"",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"",
+            "propagation":"",
+            "harvestTime": "",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Autumn",
+            "plantHeight":"40 m",
+            "spread":"1.5m",
+            "size":"Male flower 5 mm to 8 mm long",
+            "habitat":"Evergreen and deciduous,broad-leaved mixed, forests",
+            "flower":"Yellow , Green",
+            "leaf ":"Yellow , Green",
+            "fruit":"Red , Brown",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"",
+            "hardiness":"",
+            "hardinessZones":"5-7",
+            "soil":""
+        },
+        "description":"Golden larch is often grown as an ornamental tree in parks and large gardens. The needles turn golden yellow in the fall, providing a spectacular view. Although called larch, this cold-hardy conifer is not a true larch, hence the name Pseudolarix amabilis.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Pseudolarix",
+        "known":[
+            "Chinese golden larch",
+            ""
+        ],
+        "botanical":"Pseudolarix amabilis"
+    },
+    {
+        "id":"6",
+        "image":"https://sherwoodarboretum.com.au/wp-content/uploads/2016/03/Hoop-Pine-trees.jpg",
+        "name":"Hoop Pine",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once every half month during the growing season.",
+            "pruning":"Shape the plant every 2 months during the growing season",
+            "plantingTime":"Spring",
+            "propagation":"Sowing, Cutting",
+            "harvestTime": "",
+            "pottingSuggestions":"Young trees should change pots once a year or every other spring, and plants over five years old should change pots and soil once every two or three years."
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"",
+            "plantHeight":"60 m to 70 m",
+            "spread":"6 m",
+            "size":"",
+            "habitat":"Dry rainforests",
+            "flower":"Green",
+            "leaf ":"",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Hoop Pine is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"8 - 10",
+            "soil":"Fertile soil"
+        },
+        "description":"Hoop Pine (Araucaria cunninghamii) is a pine tree native to dry rainforests of New South Wales, New Guinea, and Queensland. Hoop Pine is also called the Queensland pine and the colonial pine. This tree is used to build timber and furniture.",
+        "diseases":"",
+        "gardenUse":"Drought-tolerant and rugged, the hoop Pine is often used for xeriscaping. It's highly valued because of its low maintenance needs and ability to handle long periods without rain. Gardeners also find its form, foliage, and size attractive and may keep it in gardens. Companion plants of the Araucaria family include azalea trees, bougainvillea, and cypress.",
+        "species":"Araucarias",
+        "known":[
+            "Colonial Pine",
+            "Queensland Pine"
+        ],
+        "botanical":"Araucaria cunninghamii"
+    },
+    {
+        "id":"7",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schurenbachhalde_11_ies.jpg/800px-Schurenbachhalde_11_ies.jpg",
+        "name":"privet",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, summer",
+            "propagation":"Sowing, Cutting",
+            "harvestTime": "",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree, Shrub",
+            "lifespan":"perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"2 m to 6 m",
+            "spread":"1.5 m to 1.8 m",
+            "size":"Flower 5 mm to 6 mm",
+            "habitat":"Woods and thickets in lowland and hills",
+            "flower":"White",
+            "leaf ":"Green",
+            "fruit":"Blue , Black",
+            "stem":"Gray"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun",
+            "hardiness":"-12 °C",
+            "hardinessZones":"7-10",
+            "soil":"Sand, chalky, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Japanese privet (Ligustrum japonicum) is an evergreen ornamental shrub or small tree with dark, glossy leaves and numerous clusters of white flowers. It blooms in late spring, and the unpleasant scent of the flowers is sometimes derided. Japanese privet is considered an invasive species in certain parts of North America.",
+        "diseases":"Leaf blotch, honey fungus; aphids, scale insects, thrips",
+        "gardenUse":"Japanese privet (Ligustrum japonicum) is an attractive waxy-leaved shrub primarily grown as a low-maintenance hedging plant. Because of its long, elegant trunk, japanese privet makes for a good stilted hedge to be used to add screening above fences and walls. This shrub makes for a rewarding addition to city, cottage, and informal gardens. It grows attractively with maiden grass, potentilla, or euonymus.",
+        "species":"Privets",
+        "known":[
+            "Wax-leaf privet",
+            "Japanese liguster"
+        ],
+        "botanical":"Ligustrum japonicum"
+    },
+    {
+        "id":"8",
+        "image":"https://greenmylife-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Buy-Potted-Burgundy-Rubber-Tree-Indoor-Plant-_-Bloomscape.jpg",
+        "name":"Rubber plant",
+        "careGuide":{
+            "water":"The rubber plant should be watered regularly, and its soil should be allowed to dry out in between watering. Water slightly less frequently in the dormant winter season. The water used should be room temperature. After watering, any saucer or draining recepticle under the pot's draining hole should be emptied. This species can with stand dry periods better than it can overwatering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Sowing, Layering",
+            "harvestTime": "",
+            "pottingSuggestions":"Small seedlings should be repotted every spring, and every 2-3 years for adult plants."
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Winter",
+            "plantHeight":"20 m to 40 m",
+            "spread":"10m",
+            "size":"2.5 cm",
+            "habitat":"Hill forest, cliffs, limestone hills",
+            "flower":"",
+            "leaf ":"White, Variegated , Silver ,  Green ,  Gray , Red",
+            "fruit":"Yellow",
+            "stem":"Yellow , Brown"
+        },
+        "conditions":{
+            "difficulty":"Growing Rubber plant is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"9-11",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Rubber plant (Ficus elastica) is a large tree with wide, oval, glossy leaves. Its milky white latex was used for making rubber before Parå rubber tree came into use, hence the name. Rubber plant is an ornamental species, often grown as a houseplant in cooler climates.",
+        "diseases":"Wheat leaf blight fungus, bacterial infection; spider mites, thrips, mealybugs, scale insects",
+        "gardenUse":"The latex of the rubber plant is hard rubber. Garden Use Potted plants can be displayed indoors for ornamental purposes, and can be planted in outdoor gardens and forests.",
+        "species":"Fig trees",
+        "known":[
+            "Rubber fig",
+            "Indian rubber plant"
+        ],
+        "botanical":"Ficus elastica"
+    },
+    {
+        "id":"9",
+        "image":"https://images.immediate.co.uk/production/volatile/sites/10/2021/02/2048x1365-Ficus-benjamina-SEO-GettyImages-1309727228-f179854.jpg?webp=true&quality=90&resize=940%2C626",
+        "name":"Weeping fig",
+        "careGuide":{
+            "water":"The weeping fig should be watered regularly between spring and fall during the active growing season. Overwatering and underwatering can cause the leaves of this species to drop to the ground. It should be planted in a well-draining pot and the soil should be allowed to partially dry out between watering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring",
+            "propagation":"Cutting, Sowing",
+            "harvestTime": "",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer, autumn",
+            "plantHeight":"7 m to 30 m",
+            "spread":"1.5m",
+            "size":"2.5 cm",
+            "habitat":"Disturbed thickets, hammocks",
+            "flower":"Red , Purple , Green , Orange , Black",
+            "leaf ":"Green",
+            "fruit":"Red , Orange , Black",
+            "stem":"Brown  , Gray"
+        },
+        "conditions":{
+            "difficulty":"Growing Weeping fig is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Partial sun to full shade",
+            "hardiness":"-1 °C",
+            "hardinessZones":"9 - 11",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Weeping fig (Ficus benjamina) is an evergreen tree native to Asia and Australia. It is one of the most popular houseplants in the world, known for its elegant, glossy leaves. However, people with allergies should avoid weeping fig, considering that it is a major source of indoor allergens. All parts of the plant are poisonous except the fruits.",
+        "diseases":"Wheat leaf blight fungi; spider mites, thrips, mealybugs, scale insects",
+        "gardenUse":"Weeping fig is an evergreen tree or shrub commonly found in tropical gardens and landscapes. It is prized for its drooping, varicolored leaves. It is used for boundaries and hedging due to its dense foliage which provides privacy. As an ornamental, weeping fig may be utilized a barrier or border. Its dense growth coverage makes it difficult for companion plants to survive.",
+        "species":"Fig trees",
+        "known":[
+            "Ficus tree",
+            "Benjamin fig"
+        ],
+        "botanical":"Ficus benjamina"
+    }
+    
+]

@@ -1,0 +1,475 @@
+[
+    {
+        "id":"1",
+        "image":"https://www.macdentalcare.com/pub/photo/2014-09-apple.jpg",
+        "name":"apple",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Cutting, Sowing",
+            "harvestTime":"Late winter, Spring, Early summer, Mid summer",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"2 m to 15m",
+            "spread":"4.5 m to 9 m",
+            "size":"3 cm to 4 cm",
+            "habitat":"Thickets, forests, fields,fence edges, shores, roadsides",
+            "flower":"White , Pink",
+            "leaf ":"Green",
+            "fruit":"Yellow , Red , Orange",
+            "stem":"Purple , Brown"
+        },
+        "conditions":{
+            "difficulty":"Growing Paradise apple is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-40 °C",
+            "hardinessZones":"3-11",
+            "soil":"Chalky, loam, clay, sand; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Paradise apple is the most widely cultivated tree fruit around the globe. The three top apple- producing countries are China, the United States, and Poland with an economic impact of $3.55 billion in 2017. There are more than 7,500 known cultivars of apples throughout the world",
+        "diseases":"Codling moths, oriental fruit moths, aphids, ring rot, black rot, bitter rot, alternaria leaf blotch",
+        "gardenUse":"Beauty Improvement Value Removes acne and whitens. Usage: make tea with apple flower, rose, and orange flower, with a unique taste.",
+        "species":"Apples",
+        "known":[
+            "Domesticated orchard apple",
+            "Culinary apple"
+        ],
+        "botanical":"Malus pumila"
+    },
+    {
+        "id":"2",
+        "image":"https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Avocados-3d84a3a.jpg?webp=true&quality=90&resize=620%2C563",
+        "name":"Avocado",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once every half month during the growing season.",
+            "pruning":"",
+            "plantingTime":"Spring",
+            "propagation":"",
+            "harvestTime":"Early autumn",
+            "pottingSuggestions":"Sowing, Grafting"
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"10 m to 20 m",
+            "spread":"10m",
+            "size":"Flower 5 mm to 1 cm",
+            "habitat":"Humid lowland forests on limestone formations",
+            "flower":"Yellow , Green",
+            "leaf ":"Green",
+            "fruit":"Green  , Brown",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Avocado is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-7 °C",
+            "hardinessZones":"9-12",
+            "soil":"Loam; well drained; neutral"
+        },
+        "description":"Persea americana, widely known as the avocado plant, is an evergreen tree (semi-deciduous in cooler climates) that is native to Central America. It is cultivated all over the world for its nutritious fruits. Avocado has become an important plant in many cuisines due to its high nutrient and fat content, creamy texture, and distinct taste.",
+        "diseases":"Fungal leafspots, root rots phytophthora; glasshouse whitefly, thrips, glasshouse red spider  mite, mealybug",
+        "gardenUse":"Avocado can be used as greening plants.",
+        "species":"Bay",
+        "known":[
+            "Avocado pear",
+            "Alligator pear"
+        ],
+        "botanical":"Persea americana"
+    },
+    {
+        "id":"3",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+        "name":"Banana",
+        "careGuide":{
+            "water":"",
+            "fertilization":"",
+            "pruning":"",
+            "plantingTime":"",
+            "propagation":"",
+            "harvestTime":"",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"All year around",
+            "plantHeight":"2 m to 8m",
+            "spread":"2 m",
+            "size":"Inflorescence 15 cm to 30 cm long",
+            "habitat":"Abandoned gardens,disturbed sites",
+            "flower":"Red , Purple",
+            "leaf ":"",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"",
+            "hardiness":"",
+            "hardinessZones":"10-12",
+            "soil":""
+        },
+        "description":"Main articles: Banana and Cooking plantain Almost all cultivated plantains and many cultivated bananas are triploid cultivars of M. x paradisiaca. It is believed that Southeast Asian farmers first domesticated M. acuminata.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Bananas",
+        "known":[
+            "Plantain",
+            "French plantain"
+        ],
+        "botanical":"Musa paradisiaca"
+    },
+    {
+        "id":"4",
+        "image":"https://www.collinsdictionary.com/images/thumb/grape_229112122_250.jpg?version=4.0.243",
+        "name":"grape",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, autumn, winter",
+            "propagation":"Cutting, Grafting",
+            "harvestTime":"Mid autumn, Late autumn, Late winter, Mid spring, Late spring",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Vine",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring, summer",
+            "plantHeight":"32m",
+            "spread":"4 cm",
+            "size":"2.5 cm",
+            "habitat":"Riversides, damp woods,banks",
+            "flower":"Green",
+            "leaf ":"Yellow , Red , Purple , Green",
+            "fruit":"Yellow , Blue , Black , Brown",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Growing Wine grape is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun",
+            "hardiness":"-18 °C",
+            "hardinessZones":"3 - 7",
+            "soil":"Sand, chalky, loam; well drained; neutral, slightly alkaline"
+        },
+        "description":"Wine grape (Vitis vinifera) is a woody, fruit-bearing vine with a very long and vivid history of cultivation for culinary, recreational, and ritualistic purposes most notably in winemaking. The earliest known evidence of domesticated wine grapes has been identified in Georgia, and carbon dating traces its domestic origins all the way back to 6000 BC. In addition to wine, the fruit of the wine grape is eaten in the form of grapes, raisins, and currants.",
+        "diseases":"Powdery mildew, grey moulds; glasshouse red spider mite, spider mite, mealybugs, wasps",
+        "gardenUse":"While wine grape vines are not often grown outside of commercial production, the plant's vibrant leaves and plump fruit make it a highly valued perennial amongst those willing to take on the challenge. When grown in informal gardens, wine grape vines can form an overhead canopy with the proper support, making a lovely shaded patio area. Rose plants are typically planted near the vines, and oregano, basil, and clover also make excellent companions.",
+        "species":"Grapevines",
+        "known":[
+            "Common grape vine",
+            "European grape"
+        ],
+        "botanical":"Vitis vinifera"
+    },
+    {
+        "id":"5",
+        "image":"https://produits.bienmanger.com/34089-0w0h0_Organic_Fresh_Kiwi.jpg",
+        "name":"Kiwi",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"",
+            "plantingTime":"Spring",
+            "propagation":"Division, Sowing",
+            "harvestTime":"Autumn",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Vine",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"4.5 m to 8 m",
+            "spread":"4.5 m to 8 m",
+            "size":"1.8 cm to 3.5 cm",
+            "habitat":"Thickets, oak forests",
+            "flower":"White , Yellow",
+            "leaf ":"Green , Yellow , Gold ",
+            "fruit":"Green , Bronze , Brown",
+            "stem":"Red , Green"
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-12 °C",
+            "hardinessZones":"9-11",
+            "soil":"Sand, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Kiwi (Actinidia chinensis) is a woody deciduous vine that can grow to be 6 m long. It grows in thickets, ravines and on slopes. It is considered invasive in North Carolina. It grows best in full sun or semi- shade. The edible fruit has a smooth bronze skin with green or yellow flesh.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Actinidia",
+        "known":[
+            "Golden kiwifrui",
+            "Yangtao"
+        ],
+        "botanical":"Actinidia chinensis"
+    },
+    {
+        "id":"6",
+        "image":"https://primefoods-eg.com/site/wp-content/uploads/2020/10/shutterstock_92433031.jpg",
+        "name":"Lemon",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once every half month during the growing season.",
+            "pruning":"Shape the plant every 2 months during the growing season.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Sowing, Grafting, Cutting, Layering",
+            "harvestTime":"Autumn",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring, summer",
+            "plantHeight":"2 m to 6 m",
+            "spread":"1 m to 2.5 m",
+            "size":"1.5 cm to 2 cm",
+            "habitat":"Woodland garden",
+            "flower":"White",
+            "leaf ":"Yellow , Green , Variegated",
+            "fruit":"Yellow , Orange",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Growing Lemon is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"9-11",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutralTree"
+        },
+        "description":"Lemon is a cultivated small evergreen tree known for its yellow, juicy, sour fruits full of citric acid. Its origins are unknown, but it was probably first created in India, China, or Burma as a hybrid of sour orange (Citrus x aurantium) and citron (Citrus medica). It is commercial fruit cultivated in warm regions around the world.",
+        "diseases":"Thrips, spider mites, scale insects, leaf miners, aphids, sooty mold, gummosis, anthracnose",
+        "gardenUse":"Though lemon trees are typically grown commercially, they have seen a jump in popularity in home gardens. Their compact size (they can even be grown indoors), attractive leaves, and bright, tasty fruit have made them a staple in warmer- climate regions, particularly in Mediterranean-style gardens. Planting a lime tree nearby will help pollinate your lemon tree, and lemon balm will help deter harmful caterpillars. Roses, geraniums, and jasmine work great when planted under lemon trees.",
+        "species":"Citrus fruits",
+        "known":[
+            "Meyer lemon",
+            "Sweet lemon"
+        ],
+        "botanical":"Citrus limon"
+    },
+    {
+        "id":"7",
+        "image":"https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-mango.jpg",
+        "name":"Mango",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Sowing, Cutting, Grafting",
+            "harvestTime":"Mid spring, Late spring, Summer",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"10 m to 20 m",
+            "spread":"6 m ",
+            "size":"1.5 mm",
+            "habitat":"Humid tropical forests,more open, secondary formations",
+            "flower":"Yellow , Green",
+            "leaf ":"Yellow , Green",
+            "fruit":"Yellow , Green , Orange , Pink",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Mango tree is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"7-10",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral"
+        },
+        "description":"Mango tree is a large tree native to the Indian subcontinent. It is most well-known for the tropical fruit it produces, and mango is the national fruit of India, Pakistan, and the Philippines. Mango tree can also be used for wood after the tree's fruit production is over. This type of wood is highly prized for making musical instruments.",
+        "diseases":"",
+        "gardenUse":"Mango tree is a fruit-bearing evergreen tree commonly found in tropical and sub-tropical gardens. It is prized for its fragrant blossoms and long, dense green leaves. These leaves can be used as fodder for cattle and is good for boundaries. The timber can be used for furniture. Mango tree is a shade-providing feature plant in tropical gardens. Plant with Marigolds or Mint to deter pests",
+        "species":"Mangoes",
+        "known":[
+            "Indian mango",
+            "Edible mango"
+        ],
+        "botanical":"Mangifera indica"
+    },
+    {
+        "id":"8",
+        "image":"https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-mango.jpg",
+        "name":"orange",
+        "careGuide":{
+            "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, Autumn",
+            "propagation":"Grafting, Sowing",
+            "harvestTime":"All year around",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Tree, Shrub",
+            "lifespan":"perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"1 m to 3 m",
+            "spread":"6 m",
+            "size":"1.5 cm",
+            "habitat":"Coastal",
+            "flower":"White",
+            "leaf ":"Green",
+            "fruit":"Yellow , Red , Orange",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Growing Mandarin orange is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"9-11",
+            "soil":"Clay, loam, sand; well drained; slightly acidic, neutral"
+        },
+        "description":"The mandarin orange (Citrus reticulata) is a citrus fruit tree. It is famed for its Mandarin oranges, a commonly consumed fruit which can be eaten plain or used in salads. During the Chinese New Year, the fruit is considered a symbol of good fortune.",
+        "diseases":"",
+        "gardenUse":"Mandarin orange can be a delightful addition to the yard. This small tree produces a sweet, brightly colored citrus fruit whose flavor is a real treat and a welcome reward for the hard-working gardener. These trees are often planted in gardens for their hardiness, fruits, and their small size, which makes them an easy addition. Planting with marigolds, petunias, and borage may help keep away citrus pests.",
+        "species":"Citrus fruits",
+        "known":[
+            "Tangerine",
+            "Mandarine"
+        ],
+        "botanical":"Citrus reticulata"
+    },
+    {
+        "id":"9",
+        "image":"https://englishlib.org/dictionary/img/wlibrary/p/6027173f422480.68671584.jpg",
+        "name":"Peach",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the dead, diseased, overgrown branches in winter.",
+            "plantingTime":"Spring, autumn",
+            "propagation":"Sowing, Grafting, Cutting, Layering",
+            "harvestTime":"summer",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Tree",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"2 m to 8 m",
+            "spread":"6 m",
+            "size":"2.5 cm to 3.5 cm",
+            "habitat":"Roadsides, fencerows, abandoned farms, streamsides, canyons",
+            "flower":"Pink",
+            "leaf ":"Green",
+            "fruit":"Red , Gold",
+            "stem":"Red , Green , Brown , Gray"
+        },
+        "conditions":{
+            "difficulty":"Peach is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-23 °C",
+            "hardinessZones":"7-10",
+            "soil":"Sandy chalky, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Peach is native to Northwest China. China, Spain, and Italy are the top three producers of peaches world-wide. The peach is also the state fruit of Georgia. Peach production in the US in 2017 was valued at $599 million. The fruit has a yellow or white flesh, a sweet aroma, and a skin that is either velvety (peaches) or smooth (nectarines).",
+        "diseases":"Bacterial canker, brown rot, replant diseases; glasshouse red spider mite, aphids",
+        "gardenUse":"Peach is a fruit-bearing deciduous tree commonly found in orchards or gardens. It is prized for its rich foliage, which turns golden in autumn, and beautiful springtime blossoms. Its low-lying branches provide shade. Peaches can be a feature of a greenhouse or grow outdoors in milder climates or sheltered areas. Plant with shade-loving ground cover blooms such as daffodils or snowdrops for color contrast.",
+        "species":" Prunus",
+        "known":[
+            "Nectarine",
+            ""
+        ],
+        "botanical":"Prunus persica"
+    },
+    {
+        "id":"10",
+        "image":"https://produits.bienmanger.com/33469-0w0h0_Organic_Fresh_Pineapple.jpg",
+        "name":"Pineapple",
+        "careGuide":{
+            "water":"Pineapple needs plenty of water during its spring and summer growing season. The surrounding soil needs to be kept moist so always water before it dries out. The plant dislikes calcium so don't use hard water and make sure that the water is at room temperature. During winter dormancy, allow the soil to dry a little before watering.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring",
+            "propagation":"Sowing",
+            "harvestTime":"Mid spring, Late spring",
+            "pottingSuggestions":"Needs excellent drainage in pots"
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer",
+            "plantHeight":"1 m to 1.5m",
+            "spread":"91 cm to 1.2 m",
+            "size":"2 m",
+            "habitat":"Sandy loam",
+            "flower":"Yellow , Purple",
+            "leaf ":"Green",
+            "fruit":"Red",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Growing Pineapple is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"9-11",
+            "soil":"Loam; well drained; slightly acidic"
+        },
+        "description":"Pineapple is a short plant that is native to the tropics. Its fruit has a high nutritional value. Peeling off the prickly fruit skin reveals a sweet, aromatic, golden-yellow pulp that is very popular.",
+        "diseases":"Scale insects",
+        "gardenUse":"A tropical fruit that is usually grown in edible gardens, the pineapple is typically kept in outdoor containers. The fruit it produces is prized among gardeners. In addition, it is considered easy to grow in the right climates. Companion plants of the pineapple include Gardenia, Bromeliad, and Chinese evergreen.",
+        "species":"Pineapples",
+        "known":[
+            "Ivory pineapple",
+            "Pina"
+        ],
+        "botanical":"Ananas comosus"
+    },
+    {
+        "id":"11",
+        "image":"https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-strawberrie.jpg",
+        "name":"strawberry",
+        "careGuide":{
+            "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Autumn, spring",
+            "propagation":"Sowing, Division",
+            "harvestTime":"Spring, summer, autumn",
+            "pottingSuggestions":"Needs excellent drainage in pots."
+        },
+        "characteristics":{
+            "plantType":"Herb",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring, summer",
+            "plantHeight":"10 cm to 40 cm",
+            "spread":"30 cm to 61 cm",
+            "size":"1.5 cm to 2 cm",
+            "habitat":"Garden",
+            "flower":"White , Red , Pink",
+            "leaf ":"Green",
+            "fruit":"White , Red , Green",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Growing Garden strawberry is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-20 °C",
+            "hardinessZones":"4-8",
+            "soil":"Loam; well drained; neutral"
+        },
+        "description":"The garden strawberry (Fragaria ananassa) is an edible plant species. Each plant produces a quart of strawberries during the growing season. The garden strawberry fruit becomes ripe during the early spring and summer months. The garden strawberry was first cultivated during the middle of the eighteenth century in France. It's a hybrid between a North American strawberry (F virginiana) and a Chilean strawberry (F chiloensis).",
+        "diseases":"Root rot, strawberry viruses, grey moulds; aphids, sugs, red spider mite, vine weevil",
+        "gardenUse":"",
+        "species":"Strawberries",
+        "known":[
+            "Strawberry",
+            ""
+        ],
+        "botanical":"Fragaria ananassa"
+    }
+]

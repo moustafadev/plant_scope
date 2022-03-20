@@ -1,0 +1,389 @@
+[
+    {
+        "id":"1",
+        "image":"https://www.gardenia.net/storage/app/public/uploads/images/detail/8855863824_e324e567c5_oOptimized.jpg",
+        "name":"Black prince",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"All year around",
+            "propagation":"Cutting",
+            "harvestTime":"",
+            "pottingSuggestions":"Flower Pots"
+        },
+        "characteristics":{
+            "plantType":"Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer, Autumn",
+            "plantHeight":"10 cm to 25 cm",
+            "spread":"10 cm to 25 cm",
+            "size":"2.5 cm",
+            "habitat":"Garden beds, container ,gardens",
+            "flower":"Red",
+            "leaf ":"Purple , Black",
+            "fruit":"",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Black prince is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-7 - 10 °C",
+            "hardinessZones":"9a-11b",
+            "soil":"Sand, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"A variant of Echeveria named for its distinctive coloring, black prince displays stunning black leaves in all but the center of the plant, which remains green. This unusual coloring makes it a very desirable strain among succulent enthusiasts",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Hen and chicks",
+        "known":[
+            " Echeveria 'black prince'",
+            ""
+        ],
+        "botanical":"Echeveria Black Prince"
+    },
+    {
+        "id":"2",
+        "image":"https://www.gardenia.net/storage/app/public/uploads/images/detail/shutterstock_83401477Optimized.jpg",
+        "name":"Graptopetalum 'bronz'",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"All year around",
+            "propagation":"cutting",
+            "harvestTime":"",
+            "pottingSuggestions":"Flower Pots"
+        },
+        "characteristics":{
+            "plantType":"Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring, Summer",
+            "plantHeight":"15 cm",
+            "spread":"15 cm",
+            "size":"",
+            "habitat":"desert",
+            "flower":"Yellow , Green",
+            "leaf ":"Green , Bronze",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Graptopetalum bronzi is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full Sun",
+            "hardiness":"-4 - 4 °C",
+            "hardinessZones":"9b-11",
+            "soil":"Sand, loam; well drained; slightly acidic,neutral, slightly alkaline"
+        },
+        "description":"Graptopetalum 'bronzi looks like a mini version of the Ghost plant and the two share similar habits. Its leaves appear glossy in the light, and the whole plant turns reddish-brown when it changes color. In the summer, it tends to grow excessively. In the fall it can be propagated by cutting the leaves from its lower stem. The success rate of leaf-cutting is usually high.",
+        "diseases":"Black rot, sooty mold, aphids, scale insects, spider mites, white butterflies",
+        "gardenUse":"",
+        "species":"Leatherpetal",
+        "known":[
+            "",
+            ""
+        ],
+        "botanical":"Graptopetalum Bronz'"
+    },
+    {
+        "id":"3",
+        "image":"https://worldofsucculents.com/wp-content/uploads/2018/11/Fairy-Castle-Cactus-702x527.jpg",
+        "name":"Fairy castle cactus",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once every 2-3 months during the growing season.",
+            "pruning":"",
+            "plantingTime":"All year around",
+            "propagation":"cutting",
+            "harvestTime":"",
+            "pottingSuggestions":"Flower Pots"
+        },
+        "characteristics":{
+            "plantType":"Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"",
+            "plantHeight":"1.8m",
+            "spread":"40 cm",
+            "size":"",
+            "habitat":"Temperate regions",
+            "flower":"White , Purple , Yellow , Pink",
+            "leaf ":"",
+            "fruit":"",
+            "stem":"Green , Brown"
+        },
+        "conditions":{
+            "difficulty":"Fairy castle cactus is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full Sun",
+            "hardiness":"-4 °C",
+            "hardinessZones":"10a-11b",
+            "soil":"Sand, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Fairy castle cactus is a miniature cactus that grows as clumps of columnar spires that resemble a castle's turrets. A spined succulent that grows slowly and blooms only infrequently, it is an extremely popular choice for indoor growing in full- sun locations.",
+        "diseases":"Spider mites, aphids, virus disease, stem rot, root- knot nematode, anthracnose, mealy bugs, rodents",
+        "gardenUse":"",
+        "species":"Sweetpotato cactus",
+        "known":[
+            "",
+            ""
+        ],
+        "botanical":" Cereus tetragonus fairy castle"
+    },
+    {
+        "id":"4",
+        "image":"https://horticultureunlimited.com/wp-content/themes/horticulture-responsive/timthumb/timthumb.php?src=https://horticultureunlimited.com/wp-content/uploads/2016/01/Macfadyena-unguis-cati-Cats-claw-vine-up-close-flowers.jpg&w=410&h=400",
+        "name":"Cat's Claw",
+        "careGuide":{
+            "water":"Average water needs,watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, summer, autumn",
+            "propagation":"Cutting",
+            "harvestTime":"",
+            "pottingSuggestions":"Flower Pots"
+        },
+        "characteristics":{
+            "plantType":"Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"10 cm to 50 cm",
+            "spread":"1 0 cm",
+            "size":"2.5 cm",
+            "habitat":"Garden",
+            "flower":"Yellow",
+            "leaf ":"Green",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Cat's Claw is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"9-11",
+            "soil":"Sand, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"One of the smaller species in the Echeveria genus, the cat's Claw forms small, short rosettes up to 10 cm across. They are easy to care for outdoors or as houseplants, and one of the few succulents that bloom in spring. Those springtime flowers appear on tall stems that leave the parent rosette far below.",
+        "diseases":"Mealybugs, aphids, vine weevil",
+        "gardenUse":"",
+        "species":"Hen and chicks",
+        "known":[
+            "Cat's Paw",
+            "Echeveria Chihuahua"
+        ],
+        "botanical":"Echeveria chihuahuaensis"
+    },
+    {
+        "id":"5",
+        "image":"https://www.thespruce.com/thmb/zbSJbJcGX1XDfEPuw09agfvnneE=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DSC_9668copy-c7bccc862aef4f66936184e049741d0e.jpg",
+        "name":"Echeveria",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, Early summer",
+            "propagation":"Cutting",
+            "harvestTime":"",
+            "pottingSuggestions":"Flower Pots"
+        },
+        "characteristics":{
+            "plantType":"Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"Spring",
+            "plantHeight":"20 cm to 25 cm",
+            "spread":"15 cm to 20 cm",
+            "size":"Inflorescence 30 cm long",
+            "habitat":"Garden",
+            "flower":"Orange , Pink",
+            "leaf ":"Green",
+            "fruit":"",
+            "stem":"Green"
+        },
+        "conditions":{
+            "difficulty":"Echeveria is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-4  -  10 °C",
+            "hardinessZones":"9b-11 b",
+            "soil":"Sand, loam; well drained; slightly acidic,neutral, slightly alkaline"
+        },
+        "description":"The echeveria is a prolific bloomer for its genus, blooming five to six flowering spikes per year. It is a hybrid of the Echeveria gibbiflora 'Metalica' and the Echeveria elegans. Its name derives from its hybridizer, Richard Graessner. Gardeners often select the echeveria instead of other species when creating floral arrangements, wedding bouquets and when planting up containers",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Hen and chicks",
+        "known":[
+            "",
+            ""
+        ],
+        "botanical":"Echeveria Perle von Nurnberg"
+    },
+    {
+        "id":"6",
+        "image":"https://worldofsucculents.com/wp-content/uploads/2019/01/Golden-Sedum-Sedum-adolphii-702x527.jpg",
+        "name":"Golden sedum",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once a month during the growing season.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"Spring, Summer",
+            "propagation":"cutting",
+            "harvestTime":"",
+            "pottingSuggestions":"Flower Pots"
+        },
+        "characteristics":{
+            "plantType":"Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"Summer, Autumn",
+            "plantHeight":"20 cm",
+            "spread":"60 cm to 90 cm",
+            "size":"",
+            "habitat":"Rock gardens",
+            "flower":"White",
+            "leaf ":"Yellow , Orange , Red , Green",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Golden sedum is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full Sun to Partial Sun",
+            "hardiness":"-7 - 10 °C",
+            "hardinessZones":"9a-11b",
+            "soil":"Sand, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Golden sedum grows fast, is adaptable to various environments, keeps growing all year round, and is almost never dormant. When it changes color, its leaves turn from green to golden-yellow, and the leaf margins glow slightly red, looking like delicious jelly. It is easy to propagate with leaf cutting and has a high survival rate. Its extremely easy to care for and is a must-have succulent plant variety for gardening beginners.",
+        "diseases":"Black rot, sooty mold, aphids, scale insects, spider mites, white butterflies",
+        "gardenUse":"Golden sedum is a popular succulent prized for its yellow-green leaves that form small rosettes. It is used as a ground cover or a trailing container plant and is essential in rock gardens for contrasting color and texture. Plant it with sedum, blue fescue, or hens and chicks.",
+        "species":"Stonecrops",
+        "known":[
+            "Adolph's sedum",
+            "Golden glow sedum"
+        ],
+        "botanical":"Sedum adolphii"
+    },
+    {
+        "id":"7",
+        "image":"https://www.gardenerreport.com/wp-content/uploads/2021/02/0_InShot_20210227_013834369-3.jpg",
+        "name":"Gollum jade",
+        "careGuide":{
+            "water":"Average water needs,watering when the top 3 cm of soil has dried out.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"Spring, Early summer",
+            "propagation":"Cutting",
+            "harvestTime":"",
+            "pottingSuggestions":"Both"
+        },
+        "characteristics":{
+            "plantType":"Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"",
+            "plantHeight":"61 cm to 91 cm",
+            "spread":"30 cm to 61 cm",
+            "size":"",
+            "habitat":"Garden",
+            "flower":"White , Pink",
+            "leaf ":"Red , Green",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Gollum jade is super easy to take care of, with resistance to almost all pests and diseases. It is a perfect option for gardeners with brown thumbs.",
+            "sunlight":"Full Sun",
+            "hardiness":"-1 - 10 °C",
+            "hardinessZones":"10a-11b",
+            "soil":"Sand, loam; well drained; slightly acidic, neutral, slightly alkaline"
+        },
+        "description":"Gollum jade has oddly-shaped leaves, the tops of which recess downward and resemble the ears of DreamWorks' Shrek. As a result, many florists refer to the plant as Shrek's Ears. Its stems are branched and easily lignified, and interestingly, the edges of the 'fears. turn red with abundant light and large temperature differences between day and night.",
+        "diseases":"Black rot, sooty mold, aphids, scale insects, spider mites, white butterflies",
+        "gardenUse":"Gollum jade is a popular succulent prized for its unique tubular leaves and small pink flowers that bloom in winter. It is used to add texture and an essential plant in rock gardens. Plant it with sedum, blue fescue, and hens and chicks to add color and texture.",
+        "species":"Pigmyweeds",
+        "known":[
+            "",
+            ""
+        ],
+        "botanical":"Crassula ovata Gollum"
+    },
+    {
+        "id":"8",
+        "image":"https://i.etsystatic.com/22836632/r/il/2b2d57/2533199189/il_794xN.2533199189_bxcr.jpg",
+        "name":"Astridia velutina",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Trim the diseased, withered leaves once a month.",
+            "plantingTime":"Spring, summer, autumn",
+            "propagation":"Cutting",
+            "harvestTime":"",
+            "pottingSuggestions":"Flower Pots"
+        },
+        "characteristics":{
+            "plantType":"",
+            "lifespan":"",
+            "bloomTime":"",
+            "plantHeight":"",
+            "spread":"",
+            "size":"",
+            "habitat":"",
+            "flower":"",
+            "leaf ":"",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"Growing Astridia velutina is easy as long as you can give them what they need. They are sensitive to certain types of pests and diseases.Partial sun-1 °C",
+            "sunlight":"Partial sun",
+            "hardiness":"-1 °C",
+            "hardinessZones":"10-11",
+            "soil":"A loam-based compost with the addition of extra drainage material"
+        },
+        "description":"Newly-grown astridia velutina stems are verdant, and old stems are fuchsia. The plant is shaped like a fawn's horns. People tend to overwater it in the summer, which can easily cause excessive growth. To avoid this, observe the leaf surface and only water when it's wrinkled.",
+        "diseases":"Black rot, sooty mold, aphids, scale insects, spider mites, white butterflies",
+        "gardenUse":"",
+        "species":"Astridia",
+        "known":[
+            "",
+            ""
+        ],
+        "botanical":"Astridia velutina"
+    },
+    {
+        "id":"9",
+        "image":"https://i.ebayimg.com/00/s/NzIwWDEyODA=/z/WSAAAOSwElJahF-c/$_1.JPG?set_id=8800005007",
+        "name":"Tiger aloe",
+        "careGuide":{
+            "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
+            "fertilization":"Fertilization once in spring.",
+            "pruning":"Deadhead (or remove) withered flowers after flowering.",
+            "plantingTime":"All year around",
+            "propagation":"Division, Cutting, Sowing",
+            "harvestTime":"Autumn",
+            "pottingSuggestions":""
+        },
+        "characteristics":{
+            "plantType":"Succulent",
+            "lifespan":"Perennial",
+            "bloomTime":"Winter",
+            "plantHeight":"20 cm to 30 cm",
+            "spread":"23 cm",
+            "size":"Inflorescence 20 cm to 30 cm long",
+            "habitat":"Rocky terrain and outcrops, rock crevices or shrubs",
+            "flower":"Red , Orange",
+            "leaf ":"",
+            "fruit":"",
+            "stem":""
+        },
+        "conditions":{
+            "difficulty":"",
+            "sunlight":"Full sun to partial sun",
+            "hardiness":"-7 °C",
+            "hardinessZones":"9a-11",
+            "soil":"Well drained"
+        },
+        "description":"Tiger aloe (Gonialoe variegata) is an evergreen succulent perennial that will grow to 38 cm tall. New leaves are produced from the center of the plant, pushing older leaves down. As the plant matures at 3 to 7 years old, clusters of orange flowers will bloom from July to September atop a spike that emerges from the center of the plant.",
+        "diseases":"",
+        "gardenUse":"",
+        "species":"Partridge aloes",
+        "known":[
+            " Partridge-breast aloe",
+            ""
+        ],
+        "botanical":"Gonialoe variegata"
+    }
+]
