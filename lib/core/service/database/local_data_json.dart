@@ -9,7 +9,7 @@ List nameImage =[
   'lib/shared/local json/leafPlant.json',
   'lib/shared/local json/flower.json',
   'lib/shared/local json/fruits.json',
-  'lib/shared/local json/succulents.json',
+  'lib/shared/local json/succulent.json',
   'lib/shared/local json/weed.json',
   'lib/shared/local json/tree.json',
   'lib/shared/local json/toxic_plant.json',
@@ -28,7 +28,7 @@ class DetailsDataServes {
 
     for(int i=0;i<nameImage.length;i++){
       detailsModel = [];
-      data = json.decode(await getJson(path: nameImage[i]));
+      data = await json.decode(await getJson(path: nameImage[i]));
       for (final res in data) {
         if (res != null) {
           detailsModel.add(DetailsModel.fromJson(res));

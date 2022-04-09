@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:plant_scope/shared/components/component.dart';
 import '../../shared/constants/constant.dart';
-import '../search_screen.dart';
+import '../screen/search_screen.dart';
 import 'custom_text.dart';
 
 
-class AppBarHeader extends StatelessWidget {
-  AppBarHeader({Key key}) : super(key: key);
+class CustomAppBarHeader extends StatelessWidget {
+  CustomAppBarHeader({Key key}) : super(key: key);
 
 
 
@@ -14,7 +14,7 @@ class AppBarHeader extends StatelessWidget {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
     return Container(
-      margin: const EdgeInsets.only(bottom: 20 * 2.5),
+      margin: const EdgeInsets.only(bottom: 20),
       height: size.height * 0.3,
       child: Stack(
         children: <Widget>[
@@ -40,7 +40,10 @@ class AppBarHeader extends StatelessWidget {
                       color: Colors.white, fontWeight: FontWeight.bold),
                 ),
                 Spacer(),
-
+                CircleAvatar(
+                  radius: 20,
+                  backgroundImage: AssetImage('assets/images/photo.jpg'),
+                )
               ],
             ),
           ),

@@ -40,6 +40,12 @@
             "Domesticated orchard apple",
             "Culinary apple"
         ],
+        "gallery": [
+            "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+            "https://shms.ps/uploads/images/953e96f21141b7c7f234d2384798937f.jpg",
+            "https://cdn.mosoah.com/wp-content/uploads/2018/10/16174226/%D8%B1%D8%A4%D9%8A%D9%87-%D8%AD%D9%82%D9%84-%D8%AA%D9%81%D8%A7%D8%ADM-825x510.jpg",
+            "https://cdn.salla.sa/zIBjt0h1OleLZjD8ud92EfqvcNDMGH3PRbjc2UQv.jpeg"
+        ],
         "botanical":"Malus pumila"
     },
     {
@@ -82,6 +88,12 @@
         "known":[
             "Avocado pear",
             "Alligator pear"
+        ],
+        "gallery": [
+            "https://www.foodiecrush.com/wp-content/uploads/2020/03/Mediterranean-Chickpea-Salad-Stuffed-Avocados-foodiecrush.com-014.jpg",
+            "https://www.jessicagavin.com/wp-content/uploads/2019/04/avocados-3-600x900.jpg",
+            "https://i.ndtvimg.com/i/2016-02/avocado_625x350_41456466550.jpg",
+            "https://cleangreensimple.com/wp-content/uploads/how-to-cut-an-avocado-feature-800x533.jpg"
         ],
         "botanical":"Persea americana"
     },
@@ -126,11 +138,17 @@
             "Plantain",
             "French plantain"
         ],
+        "gallery": [
+            "https://www.ammanvoice.net/assets/2021-10-30/images/30241_8_1635615487.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+            "https://diariolibre.blob.core.windows.net.optimalcdn.com/images/binrepository/shutterstock-518328943_13569948_20200401110750-focus-0-0-546-350.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bananas.jpg"
+        ],
         "botanical":"Musa paradisiaca"
     },
     {
         "id":"4",
-        "image":"https://www.collinsdictionary.com/images/thumb/grape_229112122_250.jpg?version=4.0.243",
+        "image":"https://www.herbazest.com/imgs/f/1/8/41125/grape.jpg",
         "name":"grape",
         "careGuide":{
             "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
@@ -150,7 +168,7 @@
             "size":"2.5 cm",
             "habitat":"Riversides, damp woods,banks",
             "flower":"Green",
-            "leaf ":"Yellow , Red , Purple , Green",
+            "leaf ":"Yellow , Red , Purple , Green", 
             "fruit":"Yellow , Blue , Black , Brown",
             "stem":"Green"
         },
@@ -169,7 +187,12 @@
             "Common grape vine",
             "European grape"
         ],
-        "botanical":"Vitis vinifera"
+        "gallery": [
+            "https://www.sydneymarkets.com.au/assets/image-cache/seedless-red-grapes_4497.7aac4410.jpg",
+            "https://alumniyat.net/wp-content/uploads/2021/03/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9%D9%86%D8%A8.jpeg",
+            "https://www.pacifictrellisfruit.com/wp-content/uploads/2016/05/pacific-trellis-fruit-timco-grapes.jpg",
+            "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/01/grapes-1296x728-header.jpg?w=1575"
+        ],        "botanical":"Vitis vinifera"
     },
     {
         "id":"5",
@@ -211,6 +234,12 @@
         "known":[
             "Golden kiwifrui",
             "Yangtao"
+        ],
+        "gallery": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kiwi_%28Actinidia_chinensis%29_2_Luc_Viatour.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/c/cf/Actinidia_chinensis_-_Austins_Ferry.jpg",
+            "https://www.nebaleno.eu/userfiles/kiwi-fruit-isolated_16220423614036.jpg"
         ],
         "botanical":"Actinidia chinensis"
     },
@@ -255,11 +284,17 @@
             "Meyer lemon",
             "Sweet lemon"
         ],
+        "gallery": [
+            "https://sc04.alicdn.com/kf/UTB8Qzq4kKvJXKJkSajhq6A7aFXaC.jpg_50x50.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lemon.jpg",
+            "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/lemon-health-benefits-1296x728-feature.jpg?w=1575",
+            "https://www.producemarketguide.com/sites/default/files/Commodities.tar/Commodities/lemon_commodity-page.png"
+        ],
         "botanical":"Citrus limon"
     },
     {
         "id":"7",
-        "image":"https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-mango.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg",
         "name":"Mango",
         "careGuide":{
             "water":"Drought-tolerant. Allow the soil to dry completely between watering.",
@@ -298,11 +333,17 @@
             "Indian mango",
             "Edible mango"
         ],
+        "gallery": [
+            "https://tribune.net.ph/wp-content/uploads/2019/03/fake-mangoes_630.jpg",
+            "https://ichef.bbci.co.uk/images/ic/480xn/p06hk0h6.jpg",
+            "https://ichef.bbci.co.uk/images/ic/480xn/p06hjsvt.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Carabao_mangoes_(Philippines).jpg/1280px-Carabao_mangoes_(Philippines).jpg"
+        ],
         "botanical":"Mangifera indica"
     },
     {
         "id":"8",
-        "image":"https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-mango.jpg",
+        "image":"https://i0.wp.com/berry-tree.store/wp-content/uploads/2021/04/%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84-%D8%A7%D9%83%D9%84.png?fit=550%2C550&ssl=1",
         "name":"orange",
         "careGuide":{
             "water":"Average water needs, watering when the top 3 cm of soil has dried out.",
@@ -340,6 +381,12 @@
         "known":[
             "Tangerine",
             "Mandarine"
+        ],
+        "gallery": [
+            "https://www.skyfruitsco.com/Files/Products/114_2842.jpg",
+            "https://5.imimg.com/data5/KM/QP/MY-22954806/orange-500x500.jpg",
+            "https://saremco.com.pk/wp-content/uploads/2020/09/Orange-export-opt-1.jpg",
+            "https://solidoralcare.co.nz/wp-content/uploads/2021/05/orange-white.jpg"
         ],
         "botanical":"Citrus reticulata"
     },
@@ -384,6 +431,12 @@
             "Nectarine",
             ""
         ],
+        "gallery": [
+            "https://static.libertyprim.com/files/familles/peche-large.jpg?1574630286",
+            "https://upload.wikimedia.org/wikipedia/commons/9/9e/Autumn_Red_peaches.jpg",
+            "https://cdn.shopify.com/s/files/1/1891/6405/products/shop-online-from-south-africa-fruits-peaches-fresh-food-in-dubai-and-abu-dhabi-24627362702_480x480.jpg?v=1537790627",
+            "https://upload.wikimedia.org/wikipedia/commons/a/a4/Vineyard_peaches_de.jpg"
+        ],
         "botanical":"Prunus persica"
     },
     {
@@ -427,11 +480,17 @@
             "Ivory pineapple",
             "Pina"
         ],
+        "gallery": [
+            "https://produits.bienmanger.com/33469-0w470h470_Organic_Fresh_Pineapple.jpg",
+            "https://5.imimg.com/data5/YD/VM/MY-27568370/fresh-pine-apple-500x500.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg",
+            "https://www.egypttoday.com/siteimages/Larg/202109200354415441.jpg"
+        ],
         "botanical":"Ananas comosus"
     },
     {
         "id":"11",
-        "image":"https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-strawberrie.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/1280px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg",
         "name":"strawberry",
         "careGuide":{
             "water":"Moisture-loving, keep the soil moist but do not let water accumulate.",
@@ -469,6 +528,12 @@
         "known":[
             "Strawberry",
             ""
+        ],
+        "gallery": [
+            "https://www.ojjo.app/ojjo/data/product/image/name?tenantId=villagefresh&imageName=657.jpg",
+            "https://rmarket.in/wp-content/uploads/2019/08/3-32.jpg",
+            "https://as1.ftcdn.net/v2/jpg/02/06/74/92/1000_F_206749266_LxPeBzCEi105lUweitOpb2z5VJTQvoi7.jpg",
+            "https://as1.ftcdn.net/v2/jpg/01/94/58/96/1000_F_194589639_QrC7pzqnyPtzlSNydJT7QDrWWO0kd1dt.jpg"
         ],
         "botanical":"Fragaria ananassa"
     }

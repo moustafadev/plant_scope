@@ -1,10 +1,7 @@
 import 'package:get/get.dart';
-
-import '../../view/camera_screen.dart';
-import '../../view/details_screen.dart';
-import '../../view/home_screen.dart';
-import '../../view/my_plants_screen.dart';
-import '../../view/type_screen.dart';
+import 'package:plant_scope/view/screen/camera_screen.dart';
+import 'package:plant_scope/view/screen/home_screen.dart';
+import 'package:plant_scope/view/screen/my_plants_screen.dart';
 
 class AppRoutesGet {
   static List<GetPage> getListPages() {

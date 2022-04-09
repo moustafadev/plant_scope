@@ -12,6 +12,7 @@
             "harvestTime":"Summer, autumn",
             "pottingSuggestions":"Needs excellent drainage in pots"
         },
+
         "characteristics":{
             "plantType":"HerbAnnual, Perennial",
             "lifespan":"Annual, Perennial",
@@ -39,6 +40,12 @@
         "known":[
             "Tomato plant",
             "Garden tomato"
+        ],
+        "gallery": [
+            "https://4.imimg.com/data4/UA/LS/MY-5950569/red-tomatoes-250x250.jpg",
+            "https://organicbag.in/wp-content/uploads/2022/02/istockphoto-530460119-612x612-1.jpg",
+            "https://greenfarmexim.com/wp-content/uploads/2020/10/tometo.png",
+            "https://btrade-egypt.com/wp-content/uploads/2018/03/download.jpg"
         ],
         "botanical":"Solanum lycopersicum"
     },
@@ -83,6 +90,12 @@
             "Garden carrot",
             "Carrot Flower"
         ],
+        "gallery": [
+            "https://kiranacompare.com/wp-content/uploads/2020/11/The-lost-plot-growing-carrots-iStock-471680420.jpg",
+            "https://thumbs.dreamstime.com/z/carrot-isolated-white-carrot-isolated-white-background-109799059.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/d/dc/Carrot-fb.jpg",
+            "https://www.jessicagavin.com/wp-content/uploads/2019/02/carrots-7-600x900.jpg"
+        ],
         "botanical":"Daucus carota subsp. sativus"
     },
     {
@@ -125,6 +138,12 @@
         "known":[
             "Romaine lettuce",
             "Celtuce"
+        ],
+        "gallery": [
+            "https://modo3.com/thumbs/fit630x300/20110/1434180529/%D9%85%D8%A7_%D9%87%D9%8A_%D9%81%D9%88%D8%A7%D8%A6%D8%AF_%D8%A7%D9%84%D8%AE%D8%B3.jpg",
+            "https://img.youm7.com/large/201811221223152315.jpg",
+            "https://static.webteb.net/images/content/tbl_articles_article_16821_714eb59d448-a60d-4907-b1da-8114cfc38622.jpg",
+            "https://www.vegberry.com/Upload/BabyGemLettuce_92f65bd5@2x.jpg"
         ],
         "botanical":"Lactuca sativa"
     },
@@ -169,6 +188,12 @@
             "Head cabbage",
             "Oxheart cabbage"
         ],
+        "gallery": [
+            "https://www.thespruceeats.com/thmb/qqKtdUpLrGcIxaGAIX32vSTE8Vs=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/redgrncabbagex-56a495175f9b58b7d0d7ae20.jpg",
+            "https://s3-us-west-2.amazonaws.com/melingoimages/Images/12647.jpg",
+            "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2017/10/16/bb6af6b3b588427eb107a7d442d7f02b_rendered.jpg",
+            "https://images.kitchenstories.io/wagtailOriginalImages/A825-photo-final-01/A825-photo-final-01-medium-landscape-150.jpg"
+        ],
         "botanical":"Brassica oleracea var. capitata"
     },
     {
@@ -211,6 +236,12 @@
         "known":[
             "Heading broccoli",
             "Winter cauliflower"
+        ],
+        "gallery": [
+            "https://leafyplace.com/wp-content/uploads/2019/08/post1405.jpg",
+            "https://world-crops.com/wp-content/uploads/11-Cauliflower-400x300.jpg",
+            "https://www.homestratosphere.com/wp-content/uploads/2020/08/types-of-cauliflowers-aug052020-min.jpg",
+            "https://www.newfoodmagazine.com/wp-content/uploads/shutterstock_1064936540-750x500.jpg"
         ],
         "botanical":"Brassica oleracea var. botrytis"
     },
@@ -255,6 +286,12 @@
             "Immature Cucumber",
             "Gherkins"
         ],
+        "gallery": [
+            "https://www.homestratosphere.com/wp-content/uploads/2020/07/types-of-cucumbers-july302020-min.jpg",
+            "https://s3-us-west-2.amazonaws.com/melingoimages/Images/22256.jpg",
+            "https://world-crops.com/wp-content/uploads/13-Vegetables-market-cucumber-400x300.jpg",
+            "https://leafyplace.com/wp-content/uploads/2019/07/Persian-cucumbers.jpg"
+        ],
         "botanical":"Cucumis sativus"
     },
     {
@@ -297,6 +334,12 @@
         "known":[
             "Indian corn",
             "Flint corn"
+        ],
+        "gallery": [
+            "https://cdn.tridge.com/journal_image/c7/26/fe/c726fe3f061d38979d5fbe65bba3f87534c4d876/dati-aggiornati-sulla-produzione-di-mais-nel-mondo-853x480.jpg",
+            "https://www.thoughtco.com/thmb/CyrFTuRMWQI7KQ2VjVC67MjHsUM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Maize_Varieties-571a87115f9b58857dec81bf.jpg",
+            "https://ncdex.com/public/uploads/commodity/image/Maize-Kharif-South.jpg",
+            "https://storage.googleapis.com/alghad-media/2022/02/7f92dd32-ears-corn-1536x1152.jpg"
         ],
         "botanical":"Zea mays"
     },
@@ -341,6 +384,12 @@
             "Poormanis treacle",
             "Clownis treacle"
         ],
+        "gallery": [
+            "https://www.maw9i3i.net/wp-content/uploads/2021/02/1-195-768x470.jpg",
+            "https://www.thespruceeats.com/thmb/nujKPqddE4dAYktiLY7biLUX8E8=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fresh-garlic-GettyImages-136596122-58b5aeac3df78cdcd89fa3ee.jpg",
+            "https://www.simplyrecipes.com/thmb/FvEIZokAu2ghkw5xVkNPNsbr490=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Roasted-Garlic-METHOD-1-100a65dd4930411fbed8c3759b97517c.jpg",
+            "https://www.thespruceeats.com/thmb/pMrPYN7Q5Gsc-CMgmCWbzGrUK4g=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/close-up-of-garlic-on-table-760254411-5bcbf91c4cedfd0026f2b89d.jpg"
+        ],
         "botanical":"Allium sativum"
     },
     {
@@ -383,6 +432,12 @@
         "known":[
             "East Indian Ginger",
             "Canton Ginger"
+        ],
+        "gallery": [
+            "https://organo-basket.com/wp-content/uploads/2021/04/GettyImages-116360266-57fa9c005f9b586c357e92cd.jpg",
+            "https://files.nccih.nih.gov/ginger-thinkstockphotos-531052216-square.jpg",
+            "https://i.ndtvimg.com/i/2017-12/ginger-improves-digestion_650x400_71512390562.jpg",
+            "https://thefreshandnatural.com/wp-content/uploads/2020/05/GINGER-KG.jpg"
         ],
         "botanical":"Zingiber officinale"
     },
@@ -427,6 +482,12 @@
             "Aubergine",
             "Berendjena"
         ],
+        "gallery": [
+            "https://www.denverpost.com/wp-content/uploads/2017/01/fe05fdcoverref.jpg?w=586",
+            "https://upload.wikimedia.org/wikipedia/commons/7/76/Solanum_melongena_24_08_2012_%281%29.JPG",
+            "https://zippyfacts.com/wp-content/uploads/eggplant-10.jpg",
+            "https://www.homestratosphere.com/wp-content/uploads/2020/07/types-of-eggplants-july282020-min.jpg"
+        ],
         "botanical":"Solanum melongena"
     },
     {
@@ -469,6 +530,12 @@
         "known":[
             "Shallot",
             "Edible Onion"
+        ],
+        "gallery": [
+            "https://produits.bienmanger.com/36700-0w470h470_Organic_Red_Onion_From_Italy.jpg",
+            "https://perufresh.com/wp-content/uploads/2021/02/product-13-2.jpg",
+            "https://www.thoughtco.com/thmb/FoaYqM1vzsmJtxCj9bcdCVAeQL8=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-onions-in-market-stall-562386223-59b97e59845b340010f8d76e.jpg",
+            "https://sc04.alicdn.com/kf/U825bd17ea020475eb03e9ff9838cae98q.jpg"
         ],
         "botanical":"Allium cepa"
     }

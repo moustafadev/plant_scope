@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:plant_scope/core/view_model/layout_controller.dart';
 import 'package:plant_scope/model/detailsModel.dart';
 import 'package:plant_scope/view/widget/custom_text.dart';
-
 import '../../shared/components/component.dart';
 import '../../shared/constants/constant.dart';
 
@@ -81,7 +79,8 @@ class CustomCharacteristics extends StatelessWidget {
                 child: CustomText(
                   text: text,
                   fontSize: 18,
-                  color: Colors.grey,
+                  color: Colors.black,
+                  sizeMaxLines: 10000,
                 ),
               ),
               Expanded(
@@ -89,7 +88,8 @@ class CustomCharacteristics extends StatelessWidget {
                 child: CustomText(
                   text: text1,
                   fontSize: 18,
-                  color: Colors.black87,
+                  color: Colors.grey,
+                  sizeMaxLines: 10000,
                 ),
               ),
             ],

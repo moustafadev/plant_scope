@@ -40,6 +40,12 @@
             "Cathedral cactus",
             "Abyssinian euphorbia"
         ],
+        "gallery": [
+            "https://cdn.shopify.com/s/files/1/1706/1307/products/Euphorbia-Trigona-African-Milk-Tree.jpg",
+            "https://i.ebayimg.com/images/g/-hsAAOxyeR9TG71k/s-l300.jpg",
+            "https://k2j4u5m5.stackpathcdn.com/wp-content/uploads/2021/07/large-african-milk-tree-growing-outdoors.jpg",
+            "https://plantcaretoday.com/wp-content/uploads/euphorbia-trigonia-800-35-01312018-min.jpg"
+        ],
         "botanical":"Euphorbia trigona"
     },
     {
@@ -82,6 +88,12 @@
         "known":[
             "Clematis",
             "Passion Flower Clematis"
+        ],
+        "gallery": [
+            "https://image.shutterstock.com/image-photo/purple-clematis-florida-asian-virginsbower-260nw-1995659420.jpg",
+            "https://image.shutterstock.com/image-photo/clematis-florida-virginsbower-green-leaf-260nw-1635937558.jpg",
+            "https://statics.rayagarden.com/20210120/Asian-Virginsbower5.jpg",
+            "https://cdn.pixabay.com/photo/2020/11/09/22/45/asian-virginsbower-5728038_1280.jpg"
         ],
         "botanical":"Clematis florida"
     },
@@ -126,6 +138,12 @@
             "Granny's bonnet",
             "European columbine"
         ],
+        "gallery": [
+            "https://media-srag-live.saatec.de/media/catalog/product/cache/1b8f60cb7c11172c9e8d369ea19e612a/b/5/b505_shop_1638524375.jpg",
+            "http://tcpermaculture.com/site/wp-content/uploads/2013/06/Columbine02.jpg",
+            "https://plants.gardenworks.ca/Content/Images/Photos/F320-12.jpg",
+            "https://www.flowersofindia.net/catalog/slides/Common%20Columbine.jpg"
+        ],
         "botanical":" Aquilegia vulgaris"
     },
     {
@@ -168,6 +186,12 @@
         "known":[
             "Variegated croton",
             ""
+        ],
+        "gallery": [
+            "https://gardenerspath.com/wp-content/uploads/2018/09/The-Best-Tips-for-Cultivating-Showy-Garden-Croton-Indoors.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Colpfl05.jpg/1200px-Colpfl05.jpg",
+            "https://i0.wp.com/plantgalleria.in/wp-content/uploads/2021/08/Croton-petra.jpg",
+            "https://www.naturehills.com/pub/media/catalog/product/g/a/garden-croton-_2_-600x600.jpg"
         ],
         "botanical":"Codiaeum variegatum"
     },
@@ -212,6 +236,12 @@
             "Zig-zag plant",
             "Buck-thorn"
         ],
+        "gallery": [
+            "https://cdn.groww.fr/plants/large/9c720fb8-d6b4-46c1-bb36-c977973f2ccf/5561b349-c8f5-4178-b3a7-0edee6ac0227.jpg",
+            "https://peppyflora.com/wp-content/uploads/2020/12/Devils-Backbone-Euphorbia-Tithymaloides-Pedilanthus-Peppyflora-Product-01-a-moz.jpg",
+            "https://nurtureplant.in/wp-content/uploads/2019/11/Variegated-Devils.jpg",
+            "https://i.ytimg.com/vi/8sPucp02rDg/maxresdefault.jpg"
+        ],
         "botanical":"Euphorbia tithymaloides"
     },
     {
@@ -254,6 +284,12 @@
         "known":[
             " Rocket larkspur",
             " Eastern larkspur"
+        ],
+        "gallery": [
+            "https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Ranunculaceae/consolida-ajacis-fl-dsmith.jpg",
+            "https://previews.123rf.com/images/zosimus/zosimus1708/zosimus170800135/83487606-flower-of-a-doubtful-knight-spur-consolida-ajacis-.jpg",
+            "https://previews.123rf.com/images/zosimus/zosimus1708/zosimus170800119/83487521-flower-of-a-doubtful-knight-spur-consolida-ajacis-.jpg",
+            "https://content.eol.org/data/media/55/56/14/509.10692803.jpg"
         ],
         "botanical":"Consolida ajacis"
     },
@@ -298,6 +334,12 @@
             "Candelabra plant",
             "Dragon bones"
         ],
+        "gallery": [
+            "https://plantcaretoday.com/wp-content/uploads/euphorbia-lactea-t1-min.jpg",
+            "https://arthropodafotos.de/pictures/plan/15FUC0802o.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/3/39/E_lactea_ies.jpg",
+            "http://www.llifle.com/photos/Euphorbia_lactea_7868_l.jpg"
+        ],
         "botanical":"Euphorbia lactea"
     },
     {
@@ -340,6 +382,12 @@
         "known":[
             "Tall oregon grape",
             "Hollyleaved barberry"
+        ],
+        "gallery": [
+            "https://www.portlandnursery.com/plants/images/mahonia/mahonia-aquifolium750.jpg",
+            "https://i.pinimg.com/originals/d6/c4/0d/d6c40dbb438869e8f797560e11ce84b7.jpg",
+            "https://www.eatdrinkbreathe.com/wp-content/uploads/2018/09/Oregon-Grape-1.jpg",
+            "http://staff.royalbcmuseum.bc.ca/wp-content/uploads/2016/12/Untitled-5.jpg"
         ],
         "botanical":"Berberis aquifolium"
     }

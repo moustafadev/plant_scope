@@ -10,6 +10,7 @@ class DetailsModel {
   String _gardenUse;
   String _species;
   List<String> _known;
+  List<String> _gallery;
   String _botanical;
 
   DetailsModel({
@@ -24,7 +25,9 @@ class DetailsModel {
     String gardenUse,
     String species,
     List<String> known,
+    List<String> gallery,
     String botanical,
+
   }) {
     if (id != null) {
       _id = id;
@@ -58,6 +61,8 @@ class DetailsModel {
     }
     if (known != null) {
       _known = known;
+    }if (known != null) {
+      _gallery = gallery;
     }
     if (botanical != null) {
       _botanical = botanical;
@@ -109,6 +114,10 @@ class DetailsModel {
 
   set known(List<String> known) => _known = known;
 
+  List<String> get gallery => _gallery;
+
+  set gallery(List<String> gallery) => _gallery = gallery;
+
   String get botanical => _botanical;
 
   set botanical(String botanical) => _botanical = botanical;
@@ -131,6 +140,7 @@ class DetailsModel {
     _gardenUse = json['gardenUse'];
     _species = json['species'];
     _known = json['known'].cast<String>();
+    _gallery = json['gallery'].cast<String>();
     _botanical = json['botanical'];
   }
 
@@ -153,6 +163,7 @@ class DetailsModel {
     data['gardenUse'] = _gardenUse;
     data['species'] = _species;
     data['known'] = _known;
+    data['gallery'] = _gallery;
     data['botanical'] = _botanical;
     return data;
   }

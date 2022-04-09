@@ -63,7 +63,7 @@ class CustomCare extends StatelessWidget {
   ];
 
   Widget customTextBuildList(int indexs) {
-    return titleText()[indexs] != null
+    return titleText()[indexs] != "" && titleText()[indexs] != null
         ? CustomDetails(
       textDetails:
       '${titleText()[indexs]}',

@@ -3,10 +3,10 @@ import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
+import 'package:plant_scope/view/screen/camera_screen.dart';
+import 'package:plant_scope/view/screen/home_screen.dart';
+import 'package:plant_scope/view/screen/my_plants_screen.dart';
 import '../../model/detailsModel.dart';
-import '../../view/camera_screen.dart';
-import '../../view/home_screen.dart';
-import '../../view/my_plants_screen.dart';
 import '../service/database/local_data_json.dart';
 
 
@@ -26,7 +26,6 @@ class LayoutController extends GetxController {
 
   LayoutController(){
     getFullItems();
-
   }
 
   final List<Widget> screens = [
@@ -79,6 +78,8 @@ class LayoutController extends GetxController {
     update();
     // print(fullItems);
   }
+
+
   void getItems(int index) async{
     details=[];
     await _detailsDataServes.detailsData(index).then((value) {

@@ -61,7 +61,7 @@ class CustomCondition extends StatelessWidget {
   ];
 
   Widget customTextBuildList(int indexs) {
-    return titleText()[indexs] != null
+    return titleText()[indexs] != null &&titleText()[indexs] !=""
         ? CustomDetails(
       textDetails:
       '${titleText()[indexs]}',

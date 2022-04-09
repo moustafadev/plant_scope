@@ -50,8 +50,6 @@ class CustomTitleInfo extends StatelessWidget {
                   CustomText(text: "Garden User", fontSize: 20),
                 ],
               ),
-
-
             sizedBoxHeight(sizeHeight * 0.018),
             CustomText(
               text: title,

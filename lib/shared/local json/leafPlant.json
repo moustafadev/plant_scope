@@ -40,6 +40,12 @@
             "Pepper face",
             "American pepper plant"
         ],
+        "gallery": [
+            "https://img2.lrgarden.com/feed_pic/29/36/1000315933_1000013406_1503206116.jpg",
+            "https://img2.lrgarden.com/feed_pic/26/60/1000315930_1000013406_1503206012.jpg",
+            "https://img2.lrgarden.com/feed_pic/27/61/1000315931_1000013406_1503206013.jpg",
+            "https://img2.lrgarden.com/feed_pic/28/61/1000315932_1000013406_1503206013.jpg"
+        ],
         "botanical":"Peperomia obtusifolia"
     },
     {
@@ -82,6 +88,12 @@
         "known":[
             "Sword fern",
             "Fishbone fern"
+        ],
+        "gallery": [
+            "https://gardenercorner.com/wp-content/uploads/2021/10/6-18.jpg",
+            "https://www.ourhouseplants.com/imgs-content/boston_fern_houseplant.jpg",
+            "http://www.gardenanswers.com/wp-content/uploads/2016/03/4681889642184704.jpeg",
+            "https://www.ourhouseplants.com/imgs-content/boston-fern-close-up.jpg"
         ],
         "botanical":"Nephrolepis exaltata"
     },
@@ -126,6 +138,12 @@
             "Cornstalk dracena",
             "Mass cane"
         ],
+        "gallery": [
+            "https://gardeningelsa.com/wp-content/uploads/2020/08/Corn-Plant-brown-leaves-1024x576.png",
+            "https://www.canr.msu.edu/contentAsset/image/3d342d41-6252-4abf-b7fe-a30ba2395a7f/fileAsset/filter/Resize,Jpeg/resize_w/500/jpeg",
+            "https://cdn.pixabay.com/photo/2011/06/29/16/36/corn-leaf-8253_960_720.jpg",
+            "https://leafplanttech.com/wp-content/uploads/2020/10/sulphur-deficiency.jpg"
+        ],
         "botanical":"Dracaena fragrans"
     },
     {
@@ -168,6 +186,12 @@
         "known":[
             "Mother-in-law plant",
             "Poison arum"
+        ],
+        "gallery": [
+            "https://www.snopes.com/tachyon/2017/06/Dieffenbachia_amoena_poison_fb.jpg",
+            "https://gardenerspath.com/wp-content/uploads/2021/01/Dieffenbachia-Compacta-Plant-Growing-in-a-Pot.jpg",
+            "https://www.ourhouseplants.com/imgs-content/Dieffenbachia-Exotica.jpg",
+            "https://nurtureplant.in/wp-content/uploads/2019/09/Dieffenbachia-Mary-Plant-1.jpg"
         ],
         "botanical":"Dieffenbachia seguine"
     },
@@ -212,6 +236,12 @@
             "Common ivy",
             "European ivy"
         ],
+        "gallery": [
+            "https://www.thespruce.com/thmb/ZNRdhIPaw6XTpb_cfpzWPXrUB_Y=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/english-ivy-plants-2132215-hero-03-0a8ee662826b418d86a5b6e08ee7a207.jpg",
+            "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/10/english-ivy-1296x728-header.jpg",
+            "https://www.gardenia.net/storage/app/public/uploads/images/detail/PM103429Optimized.jpg",
+            "https://www.plantandflowerinfo.com/images/english-ivy-leavesOG.jpg"
+        ],
         "botanical":"Hedera helix"
     },
     {
@@ -254,6 +284,12 @@
         "known":[
             "Variegated croton",
             ""
+        ],
+        "gallery": [
+            "https://gardenerspath.com/wp-content/uploads/2018/09/Grow-Your-Own-Croton-A-Tropical-Houseplant.jpg",
+            "https://www.epicgardening.com/wp-content/uploads/2017/12/petra.jpg",
+            "https://www.thespruce.com/thmb/A_Pjgeb6vmiMK0LbQMEvp4305p0=/700x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kararileycroton-7-1a4bb4c4c1e54d4e8413c187e21a986c.jpg",
+            "https://www.onlineplantguide.com/Image%20Library/C/2584.jpg"
         ],
         "botanical":"Codiaeum variegatum"
     },
@@ -298,6 +334,12 @@
             "Devil's ivy",
             "Ceylon creeper"
         ],
+        "gallery": [
+            "https://images.squarespace-cdn.com/content/v1/544591e6e4b0135285aeb5b6/1515523775065-TZSIDHLUQZ27LZZZKBFW/image-asset.jpeg",
+            "https://previews.123rf.com/images/arissarachen/arissarachen1805/arissarachen180500185/101556157-top-view-golden-pothos-or-devil-s-ivy-bush-natural-green-wallpaper-concept-abstract-leaves-texture-a.jpg",
+            "https://w0.peakpx.com/wallpaper/902/272/HD-wallpaper-money-plant-nature-peace-plants-rain.jpg",
+            "https://c4.wallpaperflare.com/wallpaper/1019/508/46/green-plants-close-up-pothos-wallpaper-preview.jpg"
+        ],
         "botanical":"Epipremnum aureum"
     },
     {
@@ -340,6 +382,12 @@
         "known":[
             "Money tree",
             "Lucky tree"
+        ],
+        "gallery": [
+            "https://www.epicgardening.com/wp-content/uploads/2017/02/Money-tree-plant1.jpg",
+            "https://smartgardenguide.com/wp-content/uploads/2020/09/money-tree-yellow-leaves-pachira-aquatica-7-783x522.jpg",
+            "https://simplifyplants.com/wp-content/uploads/2021/07/Money-Tree-8-720x540.jpeg",
+            "https://media.plantsnap.com/images/species/fc0c51796f1368be25477f0bff3b16d3/guinea_peanut____pachira_glabra__0_3028.jpg"
         ],
         "botanical":"Pachira glabra"
     },
@@ -384,6 +432,12 @@
             "Vilevine",
             "Velvet leaf philodendron"
         ],
+        "gallery": [
+            "https://www.thespruce.com/thmb/4-MR7Ekr6TyP4FbMbFKRK58oc98=/700x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/heartleaf-philodendron-guide-5181702-01-602a15ffea294d2eb174fa0ca26ead60.jpg",
+            "https://www.thespruce.com/thmb/TwnpGSCAHeihB09IffsYXeyOap0=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/heartleaf-philodendron-guide-5181702-hero-d7f06d3be69a42e2b71441e6d0d0ed86.jpg",
+            "https://cf.ltkcdn.net/garden/images/orig/272828-1600x1066-heart-leaf-philodendron.jpg",
+            "https://cdn.sanity.io/images/y346iw48/production/9324bc31fe3418267e167c38dd806db5143849c3-2500x1350.jpg"
+        ],
         "botanical":"Philodendron hederaceum"
     },
     {
@@ -426,6 +480,12 @@
         "known":[
             "Mother-in-law's tongue",
             "Viper's bowstring hemp"
+        ],
+        "gallery": [
+            "https://plantophiles.com/wp-content/uploads/2021/03/Curly-Leaves-on-Snake-Plants-720x405.jpg",
+            "https://plantophiles.com/wp-content/uploads/2021/07/Snake-plant-leaves-720x405.jpg",
+            "https://simplifyplants.com/wp-content/uploads/2020/11/Snake-plant-dying-3.jpg",
+            "https://gardentipsforall.com/wp-content/uploads/2022/02/Snake-plant-leaves-splitting.jpg"
         ],
         "botanical":"Sansevieria trifasciata"
     }

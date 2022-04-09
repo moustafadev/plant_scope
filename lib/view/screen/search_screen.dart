@@ -1,4 +1,3 @@
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:conditional_builder/conditional_builder.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -6,14 +5,14 @@ import 'package:plant_scope/core/view_model/layout_controller.dart';
 import 'package:plant_scope/model/detailsModel.dart';
 import 'package:plant_scope/shared/components/component.dart';
 import 'package:plant_scope/shared/constants/constant.dart';
+import 'package:plant_scope/view/widget/custom_caches_network_image.dart';
 import 'package:plant_scope/view/widget/custom_text.dart';
-
 import 'details_screen.dart';
+
 
 class SearchScreen extends StatelessWidget {
   SearchScreen({Key key}) : super(key: key);
 
-  final _controllerSearch = TextEditingController();
 
   @override
   Widget build(BuildContext context) {
@@ -116,15 +115,11 @@ class SearchScreen extends StatelessWidget {
           child: Row(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              CachedNetworkImage(
+              CustomCachedNetworkImage(
                 height: 100,
-                width: 100,
-                fit: BoxFit.cover,
-                imageUrl: item[index].image,
-                progressIndicatorBuilder: (context, url, downloadProgress) =>
-                    CircularProgressIndicator(value: downloadProgress.progress),
-                errorWidget: (context, url, error) => Icon(Icons.error),
+                url: item[index].image,
               ),
+
               sizedBoxWidth(20.0),
               CustomText(
                 text: item[index].name,

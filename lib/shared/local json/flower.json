@@ -12,6 +12,7 @@
             "harvestTime":"",
             "pottingSuggestions":"Needs excellent drainage in pots"
         },
+
         "characteristics":{
             "plantType":"Herb",
             "lifespan":"perennial",
@@ -39,6 +40,12 @@
         "known":[
             "African daisy",
             " Gerbera daisy"
+        ],
+        "gallery": [
+            "https://www.houseplantsexpert.com/assets/images/flower_closeup_1.jpg",
+            "https://www.houseplantsexpert.com/assets/images/red_gerbera_daisy_flower_1.jpg",
+            "https://www.houseplantsexpert.com/assets/images/gerbera_jamesonii_1.jpg",
+            "https://www.houseplantsexpert.com/assets/images/gerbera_stalk_1.jpg"
         ],
         "botanical":"Gerbera jamesonii"
     },
@@ -83,6 +90,12 @@
             "Common Flag",
             "German bearded iris"
         ],
+        "gallery": [
+            "https://images.ctfassets.net/zma7thmmcinb/5HjwmTQLoptBcUToml9f2G/ae858db643a9e4a19cb835c53ad1c3b8/April-Ballet-miniature-dwarf-bearded-iris.jpg",
+            "https://i.pinimg.com/564x/fc/96/0e/fc960e5ac30f0681196619f3fb10b3a2.jpg",
+            "https://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2013/3/8/0/0161_085.jpg.rend.hgtvcom.616.924.suffix/1452644661503.jpeg",
+            "https://plantcaretoday.com/wp-content/uploads/bearded-iris-plant-t1-min.jpg"
+        ],
         "botanical":"Iris germanica"
     },
     {
@@ -125,6 +138,12 @@
         "known":[
             "French hydrangea",
             "Hortensia"
+        ],
+        "gallery": [
+            "https://images.ctfassets.net/zma7thmmcinb/2Be5PUhU6gpb7EXfzeyIom/0df82fdee7808630bd293bd5535bf288/Bloomstruck_Bigleaf-Hydrangea-pv.jpg",
+            "https://images.ctfassets.net/zma7thmmcinb/5cGjABqx2wYmI2mMCOk2Ee/1bdd3e6df0f806f66c3328b20c0771f4/Blue-Billow-Bigleaf-Hydrangea.jpg",
+            "https://images.ctfassets.net/zma7thmmcinb/4psEH9apCV5ygeEzw6bpzl/892539741425dd52e8089a495a2d8af9/Bloomstruck-Bigleaf-Hydrangea.jpg",
+            "https://images.ctfassets.net/zma7thmmcinb/6tDv350n3bxyACp1g95WcC/aa3acc124127e4326e7931aa6a8c3bc2/Lets-Dance-Diva-Bigleaf-Hydrangea.jpg"
         ],
         "botanical":"Hydrangea macrophylla"
     },
@@ -169,6 +188,12 @@
             "Garden rose",
             "Bengal rose"
         ],
+        "gallery": [
+            "https://3.imimg.com/data3/XL/OB/MY-4816238/china-rose-plants-500x500.jpg",
+            "https://i.pinimg.com/564x/b0/46/a2/b046a24fd57e88eb8eb24b464a1e80c9.jpg",
+            "https://img2.lrgarden.com/feed_pic/215/1/1000360663_1000013406_1506958913.jpg",
+            "https://img2.lrgarden.com/feed_pic/214/1/1000360662_1000013406_1506958913.jpg"
+        ],
         "botanical":"Rosa chinensis"
     },
     {
@@ -211,6 +236,12 @@
         "known":[
             "Dutch hyacint",
             "Wild hyacinth"
+        ],
+        "gallery": [
+            "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hyacinth_-_Anglesey_Abbey.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nowruz_Sonbol_%28Hyacinth%29.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/6/61/Muscari_Neglectum.jpg",
+            "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Hyacinths--Ellen-Kir_viNnG3OjA3D7.jpeg"
         ],
         "botanical":"Hyacinthus orientalis"
     },
@@ -255,6 +286,12 @@
             " Annual sunflower",
             "Mirasol"
         ],
+        "gallery": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/0/0f/A_sunflower%2C_Myanmar.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/I-40W-Sunflowers.jpg/1024px-I-40W-Sunflowers.jpg",
+            "https://www.gardenia.net/storage/app/public/uploads/images/detail/shutterstock_1260151384Optimized.jpg"
+        ],
         "botanical":"Helianthus annuus"
     },
     {
@@ -297,6 +334,12 @@
         "known":[
             "Youth-And-Old-Age",
             " Youth-and-age"
+        ],
+        "gallery": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zinnienbl%C3%BCte_Zinnia_elegans_stack15_20190722-RM-7222254.jpg/330px-Zinnienbl%C3%BCte_Zinnia_elegans_stack15_20190722-RM-7222254.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Zinnia_elegans_flower_%281%29.jpg/800px-Zinnia_elegans_flower_%281%29.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Zinnia_elegans_1.jpg/1024px-Zinnia_elegans_1.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Zinnia_elegans_at_Kadavoor.jpg/1280px-Zinnia_elegans_at_Kadavoor.jpg"
         ],
         "botanical":" Zinnia elegans"
     },
@@ -341,6 +384,12 @@
             "Dragon's mouth",
             "Dragon plant"
         ],
+        "gallery": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/66/Antirrhinum_majus_from_Thasos.JPG",
+            "https://images.immediate.co.uk/production/volatile/sites/10/2018/08/2048x1365-gg-Antirrhinum-LI1476518-b9f6194.jpg",
+            "https://bloximages.chicago2.vip.townnews.com/gvnews.com/content/tncms/assets/v3/editorial/c/0a/c0a52522-ea4d-11e6-aae0-234358f378eb/5894e56a0ef1c.image.jpg",
+            "https://www.calloways.com/wp-content/uploads/0773400792-1.jpg"
+        ],
         "botanical":" Antirrhinum majus"
     },
     {
@@ -383,6 +432,12 @@
         "known":[
             "Wild pansy",
             "Love-in-idleness"
+        ],
+        "gallery": [
+            "https://images-na.ssl-images-amazon.com/images/I/61BBLa-tdGL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/91KQyQ39zZL._AC_SX679_.jpg",
+            "https://www.edenbrothers.com/store/media/Seeds-Flowers/resized/SFMIS127-1_medium.jpg",
+            "https://www.gardenia.net/storage/app/public/uploads/images/detail/CQqK8rzeT0V1FxbEFmlDwgCySeDpn2T4eta5Al7m.jpeg"
         ],
         "botanical":"Viola tricolor"
     }

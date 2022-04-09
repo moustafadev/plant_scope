@@ -10,7 +10,7 @@
             "plantingTime":"Spring, autumn",
             "propagation":"Sowing, Cutting, Layering",
             "harvestTime": "",
-            "pottingSuggestions":""
+            "pottingSuggestions": ""
         },
         "characteristics":{
             "plantType":"Tree",
@@ -39,6 +39,12 @@
         "known":[
             "Lombardy poplar",
             " Pyramidal poplar"
+        ],
+        "gallery": [
+            "https://www.bearstedwoodlandtrust.org/sites/bearstedwoodlandtrust.org/files/styles/full_width/public/2017_04_06_Black%20Poplar.jpg",
+            "https://www.bearstedwoodlandtrust.org/sites/bearstedwoodlandtrust.org/files/styles/full_width/public/2017_04_23_Mystery%20seed%20pods.jpg",
+            "https://www.bearstedwoodlandtrust.org/sites/bearstedwoodlandtrust.org/files/styles/full_width/public/2017-05-29%20Black%20poplar%20fluff.jpg",
+            "https://ichef.bbci.co.uk/news/976/cpsprodpb/B19A/production/_116766454_gettyimages-169165822.jpg"
         ],
         "botanical":"Populus nigra"
     },
@@ -83,6 +89,12 @@
             "Myrobalan plum",
             "Purple leaf plum"
         ],
+        "gallery": [
+            "https://img.lrgarden.cn/feed_pic/58/5/1000324666_1000013406_1504102789.jpg",
+            "https://img.lrgarden.cn/feed_pic/54/39/1000324662_1000013406_1504102759.jpg",
+            "https://img.lrgarden.cn/feed_pic/55/39/1000324663_1000013406_1504102759.jpg",
+            "https://img.lrgarden.cn/feed_pic/56/39/1000324664_1000013406_1504102759.jpg"
+        ],
         "botanical":"Prunus cerasifera"
     },
     {
@@ -125,6 +137,12 @@
         "known":[
             "California redwood",
             "Humboldt redwood"
+        ],
+        "gallery": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/03/US_199_Redwood_Highway.jpg",
+            "https://i1.wp.com/globaltrees.org/wp-content/uploads/2013/11/California-June-2006-148.jpg",
+            "https://i.pinimg.com/564x/a8/67/fa/a867fa36011ff4b9db5bb6737e147ffb.jpg",
+            "https://www.bartlett.com/blog/wp-content/uploads/coast-redwood.jpg"
         ],
         "botanical":"Sequoia sempervirens"
     },
@@ -169,6 +187,12 @@
             "Himalayan cedar",
             "Indian cedar"
         ],
+        "gallery": [
+            "https://www.kalliergeia.com/wp-content/uploads/2019/05/1a.-Deodar-Cedar-Cedrus-deodara-Big-Tree-in-a-Park-at-Tuscany-Italy.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/d/dc/Cedrus_deodara_Manali_2.jpg",
+            "https://media.sciencephoto.com/image/b5000386/800wm/B5000386-Deodar_cedar_Cedrus_deodara_aurea_.jpg",
+            "https://i0.wp.com/www.georgiatreefarm.com/wp-content/uploads/2019/12/Deodar-Cedar-15-Gallon-Trees.jpg"
+        ],
         "botanical":"Cedrus deodara"
     },
     {
@@ -211,6 +235,12 @@
         "known":[
             "Chinese golden larch",
             ""
+        ],
+        "gallery": [
+            "https://i.pinimg.com/564x/66/f9/90/66f990223ef4bf0325f048b08c0428f1.jpg",
+            "https://plants.oaklandnursery.com/Content/Images/Photos/J152-10.jpg",
+            "https://plants.oaklandnursery.com/Content/Images/Photos/F907-02.jpg",
+            "https://plants.oaklandnursery.com/Content/Images/Photos/J042-12.jpg"
         ],
         "botanical":"Pseudolarix amabilis"
     },
@@ -255,6 +285,12 @@
             "Colonial Pine",
             "Queensland Pine"
         ],
+        "gallery": [
+            "https://cdn.shopify.com/s/files/1/0488/7855/1202/products/hoop-pine-wachp_96d47c33-2f99-4ba6-90b3-364d93cc2d75_2048x.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/602346_-_Hoop_Pines_%282009%29.jpg/330px-602346_-_Hoop_Pines_%282009%29.jpg",
+            "https://u.iplantz.com/1648/Araucaria%20cunninghamii-0145.6214.jpg",
+            "https://u.iplantz.com/1648/Araucaria%20cunninghamii-0140.6213.jpg"
+        ],
         "botanical":"Araucaria cunninghamii"
     },
     {
@@ -297,6 +333,12 @@
         "known":[
             "Wax-leaf privet",
             "Japanese liguster"
+        ],
+        "gallery": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schurenbachhalde_11_ies.jpg/1280px-Schurenbachhalde_11_ies.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Wilde_liguster_%28Ligustrum_vulgare%29.jpg/800px-Wilde_liguster_%28Ligustrum_vulgare%29.jpg",
+            "https://cdn.shopify.com/s/files/1/0062/8532/8445/products/Wax_Leaf-Privet_1_BB_940x.jpg",
+            "https://cdn.shopify.com/s/files/1/0062/8532/8445/products/Wax_Leaf-Privet_4_BB_940x.jpg"
         ],
         "botanical":"Ligustrum japonicum"
     },
@@ -341,6 +383,12 @@
             "Rubber fig",
             "Indian rubber plant"
         ],
+        "gallery": [
+            "https://m.media-amazon.com/images/I/71LgKqOVONL._AC_SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71ZmrTuxhGL._AC_SY879_.jpg",
+            "https://cdn.shopify.com/s/files/1/0253/6701/9565/products/detail-Rubber-Tree-Extra-Large_1000x1000.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/0/04/Rubber_Plant_%28Ficus_elastica_%27Robusta%27%29.jpg"
+        ],
         "botanical":"Ficus elastica"
     },
     {
@@ -383,6 +431,12 @@
         "known":[
             "Ficus tree",
             "Benjamin fig"
+        ],
+        "gallery": [
+            "https://anythinggrowsalberta.com/wp-content/uploads/2020/09/IMG_3763-1.jpg",
+            "https://anythinggrowsalberta.com/wp-content/uploads/2020/09/IMG_3812-2.jpg",
+            "https://anythinggrowsalberta.com/wp-content/uploads/2020/09/Weeping-Fig-Ficus-Benjamina-Variegata-10inch2.jpg",
+            "https://anythinggrowsalberta.com/wp-content/uploads/2020/09/IMG_3340.jpg"
         ],
         "botanical":"Ficus benjamina"
     }

@@ -1,7 +1,8 @@
-import 'dart:ui';
 
-const kPrimaryColor = Color(0xFF0C9869);
-const kSize = 20.0;
+import 'package:flutter/material.dart';
+
+const kPrimaryColor = Colors.teal;
+
 
 
 
@@ -14,6 +15,8 @@ const kImageCrop = 'assets/images/crop.png';
 const kImageLeaf1 = 'assets/images/leaf1.png';
 const kImagePlants1 = 'assets/images/plan1.png';
 const kImagePlants = 'assets/images/plan.png';
+
+const kImageFramePlants = 'assets/images/frame.png';
 
 const kImageBarchart = 'assets/images/barchart.png';
 const kImageCloud = 'assets/images/cloud.png';

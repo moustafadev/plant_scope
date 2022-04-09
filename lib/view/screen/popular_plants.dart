@@ -6,8 +6,8 @@ import 'package:plant_scope/core/service/database/local_data_json.dart';
 import 'package:plant_scope/core/view_model/layout_controller.dart';
 import 'package:plant_scope/shared/constants/constant.dart';
 import 'package:plant_scope/view/widget/custom_text.dart';
-import '../shared/components/component.dart';
-import 'type_screen.dart';
+import '../../shared/components/component.dart';
+import 'items_screen.dart';
 
 class PopularPlants extends StatelessWidget {
   const PopularPlants({Key key}) : super(key: key);
@@ -29,7 +29,7 @@ class PopularPlants extends StatelessWidget {
               controller.getItems(index);
               navigatorTo(
                 context,
-                TypeScreen(
+                ItemsScreen(
                   item: controller.details,
                 ),
               );
@@ -54,6 +54,7 @@ class PopularPlants extends StatelessWidget {
                     text: textItems[index],
                     fontSize: 20.0,
                     color: Colors.white,
+                    sizeMaxLines: 10000,
                   ),
                 ),
               ],
@@ -61,8 +62,8 @@ class PopularPlants extends StatelessWidget {
           ),
           staggeredTileBuilder: (int index) =>
               StaggeredTile.count(2, index.isEven ? 2 : 2),
-          mainAxisSpacing: 1.0,
-          crossAxisSpacing: 15.0,
+          mainAxisSpacing: 2.0,
+          crossAxisSpacing: 25.0,
         ),
       ),
     );

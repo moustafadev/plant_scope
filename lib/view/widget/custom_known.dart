@@ -22,8 +22,7 @@ class CustomKnown extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            customTextTitle(details.name,
-                details.species, context),
+            customTextTitle(details.name, details.species, context),
             sizedBoxHeight(sizeHeight * 0.012),
             CustomText(
               text: 'Also known as: ',
@@ -46,8 +45,10 @@ class CustomKnown extends StatelessWidget {
                   color: Colors.grey,
                 ),
                 CustomText(
-                    text: '${details.botanical}',
-                    fontSize: sizeWidth * 0.04),
+                  sizeMaxLines: 10000,
+                  text: '${details.botanical}',
+                  fontSize: sizeWidth * 0.04,
+                ),
               ],
             )
           ],
@@ -60,19 +61,22 @@ class CustomKnown extends StatelessWidget {
     double sizeWidth = MediaQuery.of(context).size.width;
     return List.generate(
       details.known.length,
-      (index) => Row(
-        children: [
-          const CircleAvatar(
-            backgroundColor: Colors.black,
-            radius: 3.5,
-          ),
-          sizedBoxWidth(sizeWidth * 0.03),
-          CustomText(
-            text: details.known[index],
-            fontSize: sizeWidth * 0.038,
-          ),
-        ],
-      ),
+      (index) => details.known[index] != "" && details.known[index] != null
+          ? Row(
+              children: [
+                const CircleAvatar(
+                  backgroundColor: Colors.black,
+                  radius: 3.5,
+                ),
+                sizedBoxWidth(sizeWidth * 0.03),
+                CustomText(
+                  text: details.known[index],
+                  fontSize: sizeWidth * 0.038,
+                  sizeMaxLines: 10000,
+                ),
+              ],
+            )
+          : SizedBox.fromSize(),
     );
   }
 
@@ -84,6 +88,7 @@ class CustomKnown extends StatelessWidget {
           text: text1,
           fontSize: sizeWidth * 0.034,
           fontWeight: FontWeight.w700,
+          sizeMaxLines: 10000,
         ),
         CustomText(
           text: ' a  species of ',

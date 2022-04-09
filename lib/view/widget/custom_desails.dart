@@ -43,7 +43,7 @@ class CustomDetails extends StatelessWidget {
                   CustomText(
                     text: textDetails,
                     fontSize: 18,
-                    sizeMaxLines: 1000,
+                    sizeMaxLines: 10000,
                     color: Colors.black.withOpacity(0.6),
                   ),
                 ],
